@@ -25,5 +25,5 @@ SkLearn
 ~
 
 ### Appendix
-Clearence - measurement of per volume of plasma in which a substance is completely removed per unit time
+Clearence - measurement of per volume of plasma in which a substance is completely removed per unit time.
 
