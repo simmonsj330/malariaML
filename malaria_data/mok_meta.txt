@@ -1,0 +1,1046 @@
+SampleID	GenotypeID	Clearance	Timepoint	Country	Field_site	RNA	Asexual_stage	Lifestage	Long_class
+BD001-001	GSM1427365	4.142	prior	Bangladesh	Ramu	1.31	20	B	West
+BD001-002	GSM1427366	1.687	prior	Bangladesh	Ramu	3.97	18	B	West
+BD001-003	GSM1427367	0.684	prior	Bangladesh	Ramu	3.61	16	B	West
+BD001-004	GSM1427368	2.081	prior	Bangladesh	Ramu	11.9	8	A	West
+BD001-005	GSM1427369	1.756	prior	Bangladesh	Ramu	4.06	16	B	West
+BD001-006	GSM1427370	0.866	prior	Bangladesh	Ramu	3.26	18	B	West
+BD001-007	GSM1427371	2.445	prior	Bangladesh	Ramu	3.68	16	B	West
+BD001-008	GSM1427372	2.713	prior	Bangladesh	Ramu	3.35	16	B	West
+BD001-009	GSM1427373	1.372	prior	Bangladesh	Ramu	1.55	16	B	West
+BD001-010	GSM1427374	2.365	prior	Bangladesh	Ramu	7.36	16	B	West
+BD001-012	GSM1427375	2.199	prior	Bangladesh	Ramu	6.18	12	B	West
+BD001-014	GSM1427376	3.192	prior	Bangladesh	Ramu	3.22	10	A	West
+BD001-015	GSM1427377	1.913	prior	Bangladesh	Ramu	1.83	8	A	West
+BD001-016	GSM1427378	1.291	prior	Bangladesh	Ramu	2.08	18	B	West
+BD001-017	GSM1427379	3.371	prior	Bangladesh	Ramu	3.5	8	A	West
+BD001-018	GSM1427380	2.76	prior	Bangladesh	Ramu	5.64	8	C	West
+BD001-019	GSM1427381	3.435	prior	Bangladesh	Ramu	13.69	10	B	West
+BD001-020	GSM1427382	2.88	prior	Bangladesh	Ramu	5	14	B	West
+BD001-021	GSM1427383	2.232	prior	Bangladesh	Ramu	3.72	8	A	West
+BD001-022	GSM1427384	3.213	prior	Bangladesh	Ramu	3.01	8	A	West
+BD001-023	GSM1427385	4.436	prior	Bangladesh	Ramu	3.33	10	A	West
+BD001-024	GSM1427386	5.427	prior	Bangladesh	Ramu	5.25	8	C	West
+BD001-025	GSM1427387	2.533	prior	Bangladesh	Ramu	14	18	B	West
+BD001-026	GSM1427388	1.968	prior	Bangladesh	Ramu	6.39	14	B	West
+BD001-027	GSM1427389	1.569	prior	Bangladesh	Ramu	11.26	18	B	West
+BD001-028	GSM1427390	3.001	prior	Bangladesh	Ramu	3.23	8	A	West
+BD001-029	GSM1427391	2.564	prior	Bangladesh	Ramu	11.93	14	C	West
+BD001-030	GSM1427392	2.32	prior	Bangladesh	Ramu	4.29	20	B	West
+BD001-032	GSM1427393	3.008	prior	Bangladesh	Ramu	1.85	8	A	West
+BD001-033	GSM1427394	3.093	prior	Bangladesh	Ramu	5.97	18	B	West
+BD001-034	GSM1427395	2.492	prior	Bangladesh	Ramu	4.59	8	C	West
+BD001-035	GSM1427396	1.587	prior	Bangladesh	Ramu	3.08	18	B	West
+BD001-036	GSM1427397	1.608	prior	Bangladesh	Ramu	4.76	20	B	West
+BD001-037	GSM1427398	3.321	prior	Bangladesh	Ramu	3.42	8	A	West
+BD001-038	GSM1427399	4.264	prior	Bangladesh	Ramu	2.38	8	A	West
+BD001-039	GSM1427400	3.199	prior	Bangladesh	Ramu	9.47	14	B	West
+BD001-040	GSM1427401	2.632	prior	Bangladesh	Ramu	7.88	8	A	West
+BD001-041	GSM1427402	3.546	prior	Bangladesh	Ramu	10.85	14	B	West
+BD001-042	GSM1427403	2.281	prior	Bangladesh	Ramu	3.34	14	B	West
+BD001-043	GSM1427404	4.203	prior	Bangladesh	Ramu	4.25	8	A	West
+BD001-044	GSM1427405	1.875	prior	Bangladesh	Ramu	3.94	18	B	West
+BD001-045	GSM1427406	2.469	prior	Bangladesh	Ramu	3.28	8	A	West
+BD001-046	GSM1427407	1.761	prior	Bangladesh	Ramu	5.47	16	B	West
+BD001-047	GSM1427408	2.951	prior	Bangladesh	Ramu	2.64	8	A	West
+BD001-048	GSM1427409	2.279	prior	Bangladesh	Ramu	3.32	18	B	West
+BD001-049	GSM1427410	2.719	prior	Bangladesh	Ramu	4.14	8	A	West
+BD001-050	GSM1427411	3.493	prior	Bangladesh	Ramu	2.4	8	A	West
+BD001-051	GSM1427412	2.283	prior	Bangladesh	Ramu	0.92	8	A	West
+BD001-052	GSM1427413	3.22	prior	Bangladesh	Ramu	0.74	8	A	West
+BD001-053	GSM1427414	2.906	prior	Bangladesh	Ramu	3.46	8	A	West
+BD001-054	GSM1427415	2.07	prior	Bangladesh	Ramu	1.34	16	B	West
+BD001-055	GSM1427416	3.228	prior	Bangladesh	Ramu	1.03	8	A	West
+BD001-056	GSM1427417	1.59	prior	Bangladesh	Ramu	2.39	16	B	West
+CD001-001	GSM1427418	2.098	prior	DRCongo	Kinshasa	3.44	10	A	West
+CD001-002	GSM1427419	1.735	prior	DRCongo	Kinshasa	11.24	8	A	West
+CD001-003	GSM1427420	2.014	prior	DRCongo	Kinshasa	21.32	8	C	West
+CD001-004	GSM1427421	1.844	prior	DRCongo	Kinshasa	19.12	12	B	West
+CD001-005	GSM1427422	1.229	prior	DRCongo	Kinshasa	6.06	8	A	West
+CD001-006	GSM1427423	1.218	prior	DRCongo	Kinshasa	8.85	10	B	West
+CD001-007	GSM1427424	1.811	prior	DRCongo	Kinshasa	8.92	14	B	West
+CD001-008	GSM1427425	1.471	prior	DRCongo	Kinshasa	5.94	8	A	West
+CD001-009	GSM1427426	1.881	prior	DRCongo	Kinshasa	8.63	10	B	West
+CD001-010	GSM1427427	2.776	prior	DRCongo	Kinshasa	5.47	12	B	West
+CD001-011	GSM1427428	2.004	prior	DRCongo	Kinshasa	4.84	8	A	West
+CD001-012	GSM1427429	1.746	prior	DRCongo	Kinshasa	15.71	8	A	West
+CD001-013	GSM1427430	0.786	prior	DRCongo	Kinshasa	5.58	12	B	West
+CD001-014	GSM1427431	2.489	prior	DRCongo	Kinshasa	1.56	8	A	West
+CD001-015	GSM1427432	2.098	prior	DRCongo	Kinshasa	6.31	8	A	West
+CD001-016	GSM1427433	2.56	prior	DRCongo	Kinshasa	2.71	14	B	West
+CD001-017	GSM1427434	1.5	prior	DRCongo	Kinshasa	6	12	C	West
+CD001-018	GSM1427435	2.226	prior	DRCongo	Kinshasa	14.32	8	C	West
+CD001-019	GSM1427436	2.297	prior	DRCongo	Kinshasa	5.51	8	A	West
+CD001-021	GSM1427437	2.545	prior	DRCongo	Kinshasa	27.04	8	C	West
+CD001-024	GSM1427439	2.403	prior	DRCongo	Kinshasa	5.24	16	B	West
+CD001-025	GSM1427440	2.243	prior	DRCongo	Kinshasa	7.86	10	B	West
+CD001-026	GSM1427441	1.362	prior	DRCongo	Kinshasa	5.77	16	B	West
+CD001-027	GSM1427442	1.923	prior	DRCongo	Kinshasa	5.81	8	C	West
+CD001-028	GSM1427443	2.82	prior	DRCongo	Kinshasa	3.67	10	A	West
+CD001-029	GSM1427444	1.523	prior	DRCongo	Kinshasa	6.52	8	A	West
+CD001-030	GSM1427445	0.65	prior	DRCongo	Kinshasa	3.51	16	B	West
+CD001-031	GSM1427446	0.831	prior	DRCongo	Kinshasa	1.3	16	B	West
+CD001-032	GSM1427447	2.812	prior	DRCongo	Kinshasa	9.31	16	B	West
+CD001-033	GSM1427448	0.949	prior	DRCongo	Kinshasa	3.2	8	A	West
+CD001-034	GSM1427449	2.411	prior	DRCongo	Kinshasa	10.78	12	B	West
+CD001-035	GSM1427450	2.535	prior	DRCongo	Kinshasa	2.66	14	B	West
+CD001-036	GSM1427451	1.585	prior	DRCongo	Kinshasa	5.74	8	C	West
+CD001-037	GSM1427452	2.276	prior	DRCongo	Kinshasa	11.5	8	C	West
+CD001-038	GSM1427453	2.565	prior	DRCongo	Kinshasa	18.88	8	C	West
+CD001-039	GSM1427454	1.878	prior	DRCongo	Kinshasa	16.13	8	C	West
+CD001-040	GSM1427455	2.035	prior	DRCongo	Kinshasa	5.81	8	C	West
+CD001-041	GSM1427456	1.439	prior	DRCongo	Kinshasa	18.3	10	C	West
+CD001-042	GSM1427457	2.199	prior	DRCongo	Kinshasa	2.5	16	B	West
+CD001-044	GSM1427458	1.238	prior	DRCongo	Kinshasa	2.58	8	A	West
+CD001-045	GSM1427459	1.337	prior	DRCongo	Kinshasa	5.04	10	B	West
+CD001-046	GSM1427460	1.891	prior	DRCongo	Kinshasa	5.92	8	C	West
+CD001-047	GSM1427461	0.757	prior	DRCongo	Kinshasa	6.5	14	B	West
+CD001-049	GSM1427462	1.995	prior	DRCongo	Kinshasa	1.97	8	A	West
+CD001-050	GSM1427463	2.498	prior	DRCongo	Kinshasa	3.9	8	C	West
+CD001-051	GSM1427464	1.681	prior	DRCongo	Kinshasa	4.43	10	C	West
+CD001-052	GSM1427465	2.393	prior	DRCongo	Kinshasa	3.2	10	B	West
+CD001-053	GSM1427466	1.973	prior	DRCongo	Kinshasa	18.89	4	C	West
+CD001-054	GSM1427467	1.447	prior	DRCongo	Kinshasa	7.54	8	A	West
+CD001-055	GSM1427468	1.739	prior	DRCongo	Kinshasa	6.25	16	B	West
+CD001-056	GSM1427469	1.6	prior	DRCongo	Kinshasa	1.13	8	A	West
+CD001-057	GSM1427470	1.714	prior	DRCongo	Kinshasa	1.06	8	A	West
+CD001-058	GSM1427471	1.703	prior	DRCongo	Kinshasa	6.68	8	A	West
+CD001-059	GSM1427472	0.729	prior	DRCongo	Kinshasa	6.46	12	B	West
+CD001-061	GSM1427473	7	prior	DRCongo	Kinshasa	15.46	14	B	West
+CD001-062	GSM1427474	2.468	prior	DRCongo	Kinshasa	5.22	12	B	West
+CD001-063	GSM1427475	2.395	prior	DRCongo	Kinshasa	17.82	4	A	West
+CD001-064	GSM1427476	6.259	prior	DRCongo	Kinshasa	5.69	16	B	West
+CD001-065	GSM1427477	2.236	prior	DRCongo	Kinshasa	6.44	8	A	West
+CD001-066	GSM1427478	2.435	prior	DRCongo	Kinshasa	2.94	16	B	West
+CD001-068	GSM1427479	1.682	prior	DRCongo	Kinshasa	10.79	10	A	West
+CD001-069	GSM1427480	1.724	prior	DRCongo	Kinshasa	7.58	8	A	West
+CD001-070	GSM1427481	2.818	prior	DRCongo	Kinshasa	3.04	4	A	West
+CD001-071	GSM1427482	3.004	prior	DRCongo	Kinshasa	25.64	14	B	West
+CD001-072	GSM1427483	2.51	prior	DRCongo	Kinshasa	9.22	16	B	West
+CD001-073	GSM1427484	4.613	prior	DRCongo	Kinshasa	3.73	8	A	West
+CD001-074	GSM1427485	2.37	prior	DRCongo	Kinshasa	7.58	8	A	West
+CD001-075	GSM1427486	2.076	prior	DRCongo	Kinshasa	4.56	8	A	West
+CD001-076	GSM1427487	1.652	prior	DRCongo	Kinshasa	4.7	8	C	West
+CD001-077	GSM1427488	1.698	prior	DRCongo	Kinshasa	8.91	8	A	West
+CD001-078	GSM1427489	2.507	prior	DRCongo	Kinshasa	8.08	10	B	West
+CD001-079	GSM1427490	1.973	prior	DRCongo	Kinshasa	2.8	8	A	West
+CD001-080	GSM1427491	2.794	prior	DRCongo	Kinshasa	3.21	8	A	West
+CD001-081	GSM1427492	1.515	prior	DRCongo	Kinshasa	1.84	10	A	West
+CD001-082	GSM1427493	3.995	prior	DRCongo	Kinshasa	16.55	14	B	West
+CD001-083	GSM1427494	1.192	prior	DRCongo	Kinshasa	14.88	16	B	West
+CD001-084	GSM1427495	4.448	prior	DRCongo	Kinshasa	3.47	16	B	West
+CD001-085	GSM1427496	2.009	prior	DRCongo	Kinshasa	2.35	8	A	West
+CD001-086	GSM1427497	1.61	prior	DRCongo	Kinshasa	6.88	8	A	West
+CD001-087	GSM1427498	0.99	prior	DRCongo	Kinshasa	9.48	16	B	West
+CD001-088	GSM1427499	1.933	prior	DRCongo	Kinshasa	4.51	14	B	West
+CD001-089	GSM1427500	1.918	prior	DRCongo	Kinshasa	6.17	8	A	West
+CD001-090	GSM1427501	1.395	prior	DRCongo	Kinshasa	4.72	8	A	West
+CD001-091	GSM1427502	1.691	prior	DRCongo	Kinshasa	4.76	8	C	West
+CD001-092	GSM1427503	1.311	prior	DRCongo	Kinshasa	2.6	16	B	West
+CD001-093	GSM1427504	2.199	prior	DRCongo	Kinshasa	2.84	8	A	West
+CD001-094	GSM1427505	2.025	prior	DRCongo	Kinshasa	2.16	8	A	West
+CD001-095	GSM1427506	1.576	prior	DRCongo	Kinshasa	2.13	8	A	West
+CD001-096	GSM1427507	1.991	prior	DRCongo	Kinshasa	10.72	14	B	West
+CD001-097	GSM1427508	1.863	prior	DRCongo	Kinshasa	1.09	4	A	West
+CD001-098	GSM1427509	2.353	prior	DRCongo	Kinshasa	7.91	12	B	West
+CD001-099	GSM1427510	1.768	prior	DRCongo	Kinshasa	3.9	8	C	West
+CD001-100	GSM1427511	2.39	prior	DRCongo	Kinshasa	3.88	8	A	West
+CD001-101	GSM1427512	2.239	prior	DRCongo	Kinshasa	10.47	8	A	West
+CD001-102	GSM1427513	1.526	prior	DRCongo	Kinshasa	3.94	18	B	West
+CD001-103	GSM1427514	1.72	prior	DRCongo	Kinshasa	3.49	18	B	West
+CD001-104	GSM1427515	1.911	prior	DRCongo	Kinshasa	10.17	8	A	West
+CD001-105	GSM1427516	2.821	prior	DRCongo	Kinshasa	4.42	8	A	West
+CD001-106	GSM1427517	2.398	prior	DRCongo	Kinshasa	2.22	8	A	West
+CD001-107	GSM1427518	2.224	prior	DRCongo	Kinshasa	6.73	8	A	West
+CD001-108	GSM1427519	1.321	prior	DRCongo	Kinshasa	6.01	14	B	West
+CD001-109	GSM1427520	1.101	prior	DRCongo	Kinshasa	3.23	16	B	West
+CD001-110	GSM1427521	2.918	prior	DRCongo	Kinshasa	16.23	10	B	West
+CD001-111	GSM1427522	1.428	prior	DRCongo	Kinshasa	1.08	14	B	West
+CD001-112	GSM1427523	2.595	prior	DRCongo	Kinshasa	2.5	12	B	West
+CD001-113	GSM1427524	2.443	prior	DRCongo	Kinshasa	2.01	16	B	West
+CD001-114	GSM1427525	1.437	prior	DRCongo	Kinshasa	5.3	14	B	West
+CD001-115	GSM1427526	2.341	prior	DRCongo	Kinshasa	7.58	16	B	West
+CD001-116	GSM1427527	2.657	prior	DRCongo	Kinshasa	8.07	14	C	West
+CD001-117	GSM1427528	2.747	prior	DRCongo	Kinshasa	3.11	10	A	West
+CD001-118	GSM1427529	2.39	prior	DRCongo	Kinshasa	5.46	8	A	West
+CD001-119	GSM1427530	1.821	prior	DRCongo	Kinshasa	2.63	8	A	West
+CD001-120	GSM1427531	1.627	prior	DRCongo	Kinshasa	1.56	8	A	West
+KH001-001	GSM1427532	4.257	prior	Cambodia	Pursat	3.36	8	A	East
+KH001-004	GSM1427533	6.273	prior	Cambodia	Pursat	0.96	8	A	East
+KH001-005	GSM1427534	6.209	prior	Cambodia	Pursat	1.91	8	A	East
+KH001-006	GSM1427535	7.063	prior	Cambodia	Pursat	2.35	10	A	East
+KH001-007	GSM1427536	8.695	prior	Cambodia	Pursat	2.9	8	A	East
+KH001-011	GSM1427537	8.367	prior	Cambodia	Pursat	3.84	12	C	East
+KH001-012	GSM1427538	5.572	prior	Cambodia	Pursat	5.57	8	A	East
+KH001-013	GSM1427539	5.481	prior	Cambodia	Pursat	12.12	12	C	East
+KH001-015	GSM1427540	8.342	prior	Cambodia	Pursat	3.09	8	A	East
+KH001-016	GSM1427541	6.035	prior	Cambodia	Pursat	3.49	10	A	East
+KH001-017	GSM1427542	4.688	prior	Cambodia	Pursat	3.31	8	A	East
+KH001-018	GSM1427543	4.505	prior	Cambodia	Pursat	13.26	8	C	East
+KH001-020	GSM1427544	4.168	prior	Cambodia	Pursat	4.41	8	A	East
+KH001-021	GSM1427545	2.368	prior	Cambodia	Pursat	4.1	8	A	East
+KH001-022	GSM1427546	3.188	prior	Cambodia	Pursat	9.3	16	B	East
+KH001-023	GSM1427547	6.309	prior	Cambodia	Pursat	1.75	8	A	East
+KH001-024	GSM1427548	5.798	prior	Cambodia	Pursat	4.04	8	A	East
+KH001-025	GSM1427549	5.406	prior	Cambodia	Pursat	2.04	8	A	East
+KH001-026	GSM1427550	5.806	prior	Cambodia	Pursat	9.83	8	C	East
+KH001-028	GSM1427551	8.381	prior	Cambodia	Pursat	2.56	8	A	East
+KH001-029	GSM1427552	11.839	prior	Cambodia	Pursat	4.39	8	A	East
+KH001-030	GSM1427553	1.912	prior	Cambodia	Pursat	0.97	8	A	East
+KH001-031	GSM1427554	8.625	prior	Cambodia	Pursat	2.22	8	A	East
+KH001-032	GSM1427555	1.692	prior	Cambodia	Pursat	4.25	8	C	East
+KH001-034	GSM1427556	6.042	prior	Cambodia	Pursat	1.51	8	A	East
+KH001-036	GSM1427557	5.221	prior	Cambodia	Pursat	0.98	10	C	East
+KH001-038	GSM1427558	5.626	prior	Cambodia	Pursat	6.7	8	A	East
+KH001-039	GSM1427559	2.632	prior	Cambodia	Pursat	1.47	8	A	East
+KH001-040	GSM1427560	4.561	prior	Cambodia	Pursat	1.26	8	A	East
+KH001-041	GSM1427561	6.037	prior	Cambodia	Pursat	1.04	12	C	East
+KH001-043	GSM1427562	6.215	prior	Cambodia	Pursat	2.18	10	C	East
+KH001-044	GSM1427563	2.45	prior	Cambodia	Pursat	3.62	16	B	East
+KH001-046	GSM1427564	3.175	prior	Cambodia	Pursat	3.82	8	A	East
+KH001-047	GSM1427565	7.717	prior	Cambodia	Pursat	3.21	8	A	East
+KH001-048	GSM1427566	6.516	prior	Cambodia	Pursat	3.02	8	C	East
+KH001-049	GSM1427567	3.618	prior	Cambodia	Pursat	2.76	10	C	East
+KH001-051	GSM1427568	5.986	prior	Cambodia	Pursat	1.07	8	A	East
+KH001-052	GSM1427569	6.091	prior	Cambodia	Pursat	2.82	16	B	East
+KH001-054	GSM1427570	3.904	prior	Cambodia	Pursat	3.26	10	B	East
+KH001-055	GSM1427571	8.006	prior	Cambodia	Pursat	4.98	8	A	East
+KH001-056	GSM1427572	3.468	prior	Cambodia	Pursat	3.87	12	B	East
+KH001-057	GSM1427573	3.629	prior	Cambodia	Pursat	5.02	10	C	East
+KH001-058	GSM1427574	4.285	prior	Cambodia	Pursat	5.78	8	C	East
+KH001-059	GSM1427575	8.684	prior	Cambodia	Pursat	3.64	4	A	East
+KH001-060	GSM1427576	7.799	prior	Cambodia	Pursat	4.06	8	A	East
+KH001-061	GSM1427577	5.947	prior	Cambodia	Pursat	3.38	4	C	East
+KH001-062	GSM1427578	4.019	prior	Cambodia	Pursat	7.4	4	A	East
+KH001-063	GSM1427579	2.36	prior	Cambodia	Pursat	7.85	8	A	East
+KH001-064	GSM1427580	8.344	prior	Cambodia	Pursat	2.5	8	A	East
+KH001-065	GSM1427581	4.602	prior	Cambodia	Pursat	2.12	12	B	East
+KH001-066	GSM1427582	6.839	prior	Cambodia	Pursat	7.16	8	A	East
+KH001-067	GSM1427583	4.618	prior	Cambodia	Pursat	4.38	10	B	East
+KH001-068	GSM1427584	5.214	prior	Cambodia	Pursat	1.74	8	C	East
+KH001-069	GSM1427585	8.355	prior	Cambodia	Pursat	3.81	8	A	East
+KH001-070	GSM1427586	8.676	prior	Cambodia	Pursat	1.59	8	A	East
+KH001-071	GSM1427587	5.423	prior	Cambodia	Pursat	1.59	12	B	East
+KH001-072	GSM1427588	8.302	prior	Cambodia	Pursat	1.05	8	C	East
+KH001-073	GSM1427589	5.039	prior	Cambodia	Pursat	5.8	8	A	East
+KH001-074	GSM1427590	7.658	prior	Cambodia	Pursat	2.02	10	C	East
+KH001-075	GSM1427591	3.923	prior	Cambodia	Pursat	4.34	8	C	East
+KH001-076	GSM1427592	5.466	prior	Cambodia	Pursat	1.19	8	A	East
+KH001-077	GSM1427593	4.563	prior	Cambodia	Pursat	2.52	14	B	East
+KH001-078	GSM1427594	5.209	prior	Cambodia	Pursat	8.9	8	A	East
+KH001-079	GSM1427595	6.751	prior	Cambodia	Pursat	2.55	12	B	East
+KH001-080	GSM1427596	5.434	prior	Cambodia	Pursat	6.17	10	B	East
+KH001-081	GSM1427597	10.022	prior	Cambodia	Pursat	3.63	8	A	East
+KH001-082	GSM1427598	4.894	prior	Cambodia	Pursat	1.36	8	A	East
+KH001-084	GSM1427600	6.064	prior	Cambodia	Pursat	1.01	10	C	East
+KH001-086	GSM1427601	5.26	prior	Cambodia	Pursat	11.71	8	A	East
+KH001-087	GSM1427602	4.633	prior	Cambodia	Pursat	5.76	14	B	East
+KH001-088	GSM1427603	2.819	prior	Cambodia	Pursat	3.72	8	A	East
+KH001-089	GSM1427604	4.353	prior	Cambodia	Pursat	6.07	14	C	East
+KH001-090	GSM1427605	6.362	prior	Cambodia	Pursat	2.54	8	C	East
+KH001-091	GSM1427606	9.967	prior	Cambodia	Pursat	2.55	8	A	East
+KH001-092	GSM1427607	7.28	prior	Cambodia	Pursat	6.35	8	A	East
+KH001-093	GSM1427608	3.329	prior	Cambodia	Pursat	4.26	8	A	East
+KH001-094	GSM1427609	5.813	prior	Cambodia	Pursat	5.18	8	C	East
+KH001-095	GSM1427610	4.943	prior	Cambodia	Pursat	1.73	14	C	East
+KH001-096	GSM1427611	6.678	prior	Cambodia	Pursat	3.32	8	C	East
+KH001-097	GSM1427612	6.27	prior	Cambodia	Pursat	3.98	14	B	East
+KH001-098	GSM1427613	7.485	prior	Cambodia	Pursat	3.56	8	A	East
+KH001-099	GSM1427614	7.287	prior	Cambodia	Pursat	4.61	10	A	East
+KH001-100	GSM1427615	6.385	prior	Cambodia	Pursat	4.86	8	A	East
+KH001-101	GSM1427616	2.164	prior	Cambodia	Pursat	4.98	8	C	East
+KH001-102	GSM1427617	4.905	prior	Cambodia	Pursat	10.74	10	C	East
+KH001-103	GSM1427618	7.056	prior	Cambodia	Pursat	3.28	14	B	East
+KH001-104	GSM1427619	1.983	prior	Cambodia	Pursat	3.9	8	C	East
+KH001-105	GSM1427620	7.779	prior	Cambodia	Pursat	7.72	8	C	East
+KH001-106	GSM1427621	6.598	prior	Cambodia	Pursat	4.15	8	A	East
+KH001-107	GSM1427622	6.228	prior	Cambodia	Pursat	4.19	8	A	East
+KH001-108	GSM1427623	5.604	prior	Cambodia	Pursat	4.66	8	C	East
+KH001-109	GSM1427624	3.265	prior	Cambodia	Pursat	14.4	10	C	East
+KH001-110	GSM1427625	3.666	prior	Cambodia	Pursat	2.9	8	C	East
+KH001-111	GSM1427626	3.873	prior	Cambodia	Pursat	2.8	16	B	East
+KH001-112	GSM1427627	4.41	prior	Cambodia	Pursat	4.49	8	A	East
+KH001-113	GSM1427628	1.966	prior	Cambodia	Pursat	4.11	8	C	East
+KH001-114	GSM1427629	1.89	prior	Cambodia	Pursat	1.38	10	B	East
+KH001-116	GSM1427630	3.575	prior	Cambodia	Pursat	3.38	8	C	East
+KH001-117	GSM1427631	2.893	prior	Cambodia	Pursat	2.8	8	C	East
+KH001-118	GSM1427632	3.488	prior	Cambodia	Pursat	4.84	4	C	East
+KH001-119	GSM1427633	4.825	prior	Cambodia	Pursat	2.34	14	B	East
+KH001-120	GSM1427634	9.036	prior	Cambodia	Pursat	5.27	4	C	East
+KH002-001	GSM1427635	3.276	prior	Cambodia	Preah Vihear	3.27	14	B	East
+KH002-002	GSM1427636	3.382	prior	Cambodia	Preah Vihear	1.43	8	C	East
+KH002-003	GSM1427637	3.008	prior	Cambodia	Preah Vihear	2.89	8	A	East
+KH002-005	GSM1427638	7.434	prior	Cambodia	Preah Vihear	3.03	8	A	East
+KH002-006	GSM1427639	1.773	prior	Cambodia	Preah Vihear	1.35	8	C	East
+KH002-007	GSM1427640	5.528	prior	Cambodia	Preah Vihear	2.92	12	B	East
+KH002-008	GSM1427641	6.464	prior	Cambodia	Preah Vihear	1.79	8	C	East
+KH002-009	GSM1427642	2.907	prior	Cambodia	Preah Vihear	4.91	8	C	East
+KH002-010	GSM1427643	3.643	prior	Cambodia	Preah Vihear	9.43	8	A	East
+KH002-011	GSM1427644	3.861	prior	Cambodia	Preah Vihear	7.61	8	A	East
+KH002-012	GSM1427645	6.677	prior	Cambodia	Preah Vihear	4	8	A	East
+KH002-013	GSM1427646	3.824	prior	Cambodia	Preah Vihear	7.1	8	A	East
+KH002-014	GSM1427647	1.502	prior	Cambodia	Preah Vihear	3.51	8	A	East
+KH002-015	GSM1427648	7.439	prior	Cambodia	Preah Vihear	2.84	8	C	East
+KH002-016	GSM1427649	7.513	prior	Cambodia	Preah Vihear	3.81	8	A	East
+KH002-017	GSM1427650	2.707	prior	Cambodia	Preah Vihear	12.04	8	A	East
+KH002-018	GSM1427651	3.379	prior	Cambodia	Preah Vihear	7.67	8	A	East
+KH002-019	GSM1427652	9.158	prior	Cambodia	Preah Vihear	6.27	8	A	East
+KH002-020	GSM1427653	5.266	prior	Cambodia	Preah Vihear	2.42	10	A	East
+KH002-021	GSM1427654	2.84	prior	Cambodia	Preah Vihear	10.1	8	A	East
+KH002-022	GSM1427655	3.24	prior	Cambodia	Preah Vihear	3.86	8	A	East
+KH002-023	GSM1427656	2.351	prior	Cambodia	Preah Vihear	2.91	8	A	East
+KH002-024	GSM1427657	2.203	prior	Cambodia	Preah Vihear	5.24	16	B	East
+KH002-025	GSM1427658	2.772	prior	Cambodia	Preah Vihear	12.39	8	A	East
+KH002-027	GSM1427659	2.747	prior	Cambodia	Preah Vihear	2.85	8	A	East
+KH002-028	GSM1427660	5.294	prior	Cambodia	Preah Vihear	3.25	10	B	East
+KH002-029	GSM1427661	7.255	prior	Cambodia	Preah Vihear	0.82	8	A	East
+KH002-030	GSM1427662	2.48	prior	Cambodia	Preah Vihear	6.66	8	A	East
+KH002-031	GSM1427663	4.196	prior	Cambodia	Preah Vihear	10.43	4	C	East
+KH002-032	GSM1427664	2.835	prior	Cambodia	Preah Vihear	4.56	8	A	East
+KH002-033	GSM1427665	4.49	prior	Cambodia	Preah Vihear	3.35	8	A	East
+KH002-034	GSM1427666	2.938	prior	Cambodia	Preah Vihear	4.84	14	B	East
+KH002-035	GSM1427667	9.563	prior	Cambodia	Preah Vihear	15.02	8	C	East
+KH002-036	GSM1427668	1.486	prior	Cambodia	Preah Vihear	11.31	16	B	East
+KH002-037	GSM1427669	2.061	prior	Cambodia	Preah Vihear	1.6	8	C	East
+KH002-038	GSM1427670	3.402	prior	Cambodia	Preah Vihear	2.7	4	A	East
+KH002-039	GSM1427671	1.479	prior	Cambodia	Preah Vihear	2.93	14	B	East
+KH002-040	GSM1427672	2.663	prior	Cambodia	Preah Vihear	13.87	12	B	East
+KH002-041	GSM1427673	2.991	prior	Cambodia	Preah Vihear	12.06	8	A	East
+KH002-042	GSM1427674	3.623	prior	Cambodia	Preah Vihear	5.34	8	A	East
+KH002-043	GSM1427675	3.748	prior	Cambodia	Preah Vihear	13.6	16	B	East
+KH002-044	GSM1427676	8.391	prior	Cambodia	Preah Vihear	4.35	8	A	East
+KH002-045	GSM1427677	2.478	prior	Cambodia	Preah Vihear	4.93	8	A	East
+KH002-046	GSM1427678	2.614	prior	Cambodia	Preah Vihear	4.91	8	A	East
+KH002-047	GSM1427679	3.232	prior	Cambodia	Preah Vihear	2.62	8	A	East
+KH002-048	GSM1427680	3.35	prior	Cambodia	Preah Vihear	4.78	8	A	East
+KH002-049	GSM1427681	6.836	prior	Cambodia	Preah Vihear	4.92	8	A	East
+KH002-050	GSM1427682	4.56	prior	Cambodia	Preah Vihear	5.02	8	A	East
+KH002-051	GSM1427683	2.929	prior	Cambodia	Preah Vihear	4.23	8	A	East
+KH002-052	GSM1427684	3.749	prior	Cambodia	Preah Vihear	4.12	8	A	East
+KH002-053	GSM1427685	8.199	prior	Cambodia	Preah Vihear	4.27	8	A	East
+KH002-054	GSM1427686	5.829	prior	Cambodia	Preah Vihear	7.76	8	A	East
+KH002-055	GSM1427687	1.726	prior	Cambodia	Preah Vihear	4.42	8	A	East
+KH002-056	GSM1427688	7.015	prior	Cambodia	Preah Vihear	9.28	14	B	East
+KH002-057	GSM1427689	3.836	prior	Cambodia	Preah Vihear	4.74	8	A	East
+KH002-058	GSM1427690	5.909	prior	Cambodia	Preah Vihear	4.5	10	B	East
+KH002-059	GSM1427691	2.291	prior	Cambodia	Preah Vihear	1.4	8	A	East
+KH002-060	GSM1427692	2.875	prior	Cambodia	Preah Vihear	4.46	10	A	East
+KH002-061	GSM1427693	2.917	prior	Cambodia	Preah Vihear	8.77	8	A	East
+KH002-062	GSM1427694	3.356	prior	Cambodia	Preah Vihear	2.03	8	A	East
+KH002-063	GSM1427695	3.664	prior	Cambodia	Preah Vihear	7.34	12	B	East
+KH002-064	GSM1427696	2.695	prior	Cambodia	Preah Vihear	6.93	8	A	East
+KH002-065	GSM1427697	3.482	prior	Cambodia	Preah Vihear	5.8	14	B	East
+KH002-066	GSM1427698	2.616	prior	Cambodia	Preah Vihear	9.34	16	B	East
+KH002-067	GSM1427699	2.698	prior	Cambodia	Preah Vihear	8.35	8	A	East
+KH002-068	GSM1427700	2.27	prior	Cambodia	Preah Vihear	2.15	8	A	East
+KH002-069	GSM1427701	6.88	prior	Cambodia	Preah Vihear	3.55	12	B	East
+KH002-070	GSM1427702	2.335	prior	Cambodia	Preah Vihear	3.32	8	A	East
+KH002-071	GSM1427703	10.026	prior	Cambodia	Preah Vihear	9.52	8	A	East
+KH002-072	GSM1427704	2.889	prior	Cambodia	Preah Vihear	4.89	4	C	East
+KH002-073	GSM1427705	8.528	prior	Cambodia	Preah Vihear	3.94	8	C	East
+KH002-074	GSM1427706	3.709	prior	Cambodia	Preah Vihear	2.83	12	B	East
+KH002-075	GSM1427707	5.478	prior	Cambodia	Preah Vihear	3	10	A	East
+KH002-076	GSM1427708	3.068	prior	Cambodia	Preah Vihear	2.66	8	C	East
+KH002-077	GSM1427709	1.84	prior	Cambodia	Preah Vihear	4.06	8	C	East
+KH002-078	GSM1427710	2.372	prior	Cambodia	Preah Vihear	5.8	14	B	East
+KH002-079	GSM1427711	3.647	prior	Cambodia	Preah Vihear	4.12	8	A	East
+KH002-081	GSM1427712	3.875	prior	Cambodia	Preah Vihear	15.24	8	A	East
+KH002-082	GSM1427713	2.458	prior	Cambodia	Preah Vihear	1.99	8	A	East
+KH002-083	GSM1427714	2.767	prior	Cambodia	Preah Vihear	5.55	8	A	East
+KH002-084	GSM1427715	4.125	prior	Cambodia	Preah Vihear	6.35	10	B	East
+KH002-085	GSM1427716	5.819	prior	Cambodia	Preah Vihear	6.28	8	A	East
+KH002-086	GSM1427717	1.633	prior	Cambodia	Preah Vihear	0.8	8	A	East
+KH002-087	GSM1427718	7.292	prior	Cambodia	Preah Vihear	8.18	8	A	East
+KH002-088	GSM1427719	4.267	prior	Cambodia	Preah Vihear	9.99	8	A	East
+KH002-089	GSM1427720	2.769	prior	Cambodia	Preah Vihear	1.85	8	A	East
+KH002-090	GSM1427721	3.253	prior	Cambodia	Preah Vihear	9.33	8	A	East
+KH002-091	GSM1427722	6.422	prior	Cambodia	Preah Vihear	8.47	8	A	East
+KH002-092	GSM1427723	2.96	prior	Cambodia	Preah Vihear	2.21	8	A	East
+KH002-093	GSM1427724	4.16	prior	Cambodia	Preah Vihear	6.9	8	A	East
+KH002-094	GSM1427725	3.844	prior	Cambodia	Preah Vihear	5.87	8	A	East
+KH002-095	GSM1427726	1.234	prior	Cambodia	Preah Vihear	3.53	14	C	East
+KH002-096	GSM1427727	1.84	prior	Cambodia	Preah Vihear	37.05	6	C	East
+KH002-097	GSM1427728	2.527	prior	Cambodia	Preah Vihear	4.72	8	A	East
+KH002-098	GSM1427729	3.052	prior	Cambodia	Preah Vihear	6.28	8	A	East
+KH002-099	GSM1427730	2.546	prior	Cambodia	Preah Vihear	9.45	14	B	East
+KH002-100	GSM1427731	3.651	prior	Cambodia	Preah Vihear	3.55	10	A	East
+KH002-101	GSM1427732	2.286	prior	Cambodia	Preah Vihear	21.9	8	A	East
+KH002-102	GSM1427733	2.806	prior	Cambodia	Preah Vihear	7.99	8	A	East
+KH002-103	GSM1427734	1.226	prior	Cambodia	Preah Vihear	4.56	8	C	East
+KH002-104	GSM1427735	2.87	prior	Cambodia	Preah Vihear	22.46	14	B	East
+KH002-105	GSM1427736	2.164	prior	Cambodia	Preah Vihear	5.51	4	A	East
+KH002-106	GSM1427737	5.336	prior	Cambodia	Preah Vihear	12.22	16	B	East
+KH002-107	GSM1427738	2.359	prior	Cambodia	Preah Vihear	2.17	8	A	East
+KH002-108	GSM1427739	2.919	prior	Cambodia	Preah Vihear	15.27	8	A	East
+KH002-109	GSM1427740	3.031	prior	Cambodia	Preah Vihear	8.78	16	B	East
+KH002-110	GSM1427741	2.122	prior	Cambodia	Preah Vihear	9.1	8	A	East
+KH002-111	GSM1427742	2.507	prior	Cambodia	Preah Vihear	7.64	8	A	East
+KH002-112	GSM1427743	1.404	prior	Cambodia	Preah Vihear	11.79	8	A	East
+KH002-114	GSM1427744	2.226	prior	Cambodia	Preah Vihear	5.8	8	A	East
+KH002-115	GSM1427745	1.466	prior	Cambodia	Preah Vihear	10.09	8	A	East
+KH002-116	GSM1427746	2.651	prior	Cambodia	Preah Vihear	17.1	8	A	East
+KH002-117	GSM1427747	1.978	prior	Cambodia	Preah Vihear	8.71	8	A	East
+KH002-118	GSM1427748	1.278	prior	Cambodia	Preah Vihear	2.79	12	B	East
+KH002-119	GSM1427749	3.575	prior	Cambodia	Preah Vihear	4.61	8	C	East
+KH002-120	GSM1427750	1.405	prior	Cambodia	Preah Vihear	3.03	8	A	East
+KH003-004	GSM1427751	1.583	prior	Cambodia	Ratanakiri	3	8	C	East
+KH003-009	GSM1427752	1.558	prior	Cambodia	Ratanakiri	5.68	8	A	East
+KH003-010	GSM1427753	2.468	prior	Cambodia	Ratanakiri	3.24	8	A	East
+KH003-011	GSM1427754	2.23	prior	Cambodia	Ratanakiri	4.19	8	C	East
+KH003-012	GSM1427755	1.605	prior	Cambodia	Ratanakiri	7.06	8	A	East
+KH003-013	GSM1427756	1.589	prior	Cambodia	Ratanakiri	4.15	8	A	East
+KH003-015	GSM1427757	1.534	prior	Cambodia	Ratanakiri	13.94	12	B	East
+KH003-016	GSM1427758	2.71	prior	Cambodia	Ratanakiri	3.71	8	C	East
+KH003-017	GSM1427759	1.115	prior	Cambodia	Ratanakiri	1.06	16	B	East
+KH003-018	GSM1427760	1.16	prior	Cambodia	Ratanakiri	4.39	16	B	East
+KH003-019	GSM1427761	3.133	prior	Cambodia	Ratanakiri	12.15	8	A	East
+KH003-020	GSM1427762	2.164	prior	Cambodia	Ratanakiri	6.17	8	A	East
+KH003-021	GSM1427763	3.753	prior	Cambodia	Ratanakiri	6.44	8	A	East
+KH003-022	GSM1427764	8.569	prior	Cambodia	Ratanakiri	2.6	8	A	East
+KH003-024	GSM1427765	3.374	prior	Cambodia	Ratanakiri	4.74	8	A	East
+KH003-025	GSM1427766	3.057	prior	Cambodia	Ratanakiri	5.15	8	A	East
+KH003-027	GSM1427767	2.359	prior	Cambodia	Ratanakiri	4.54	8	A	East
+KH003-028	GSM1427768	3.24	prior	Cambodia	Ratanakiri	2.13	16	B	East
+KH003-029	GSM1427769	3.088	prior	Cambodia	Ratanakiri	5.63	8	A	East
+KH003-030	GSM1427770	2.971	prior	Cambodia	Ratanakiri	7.01	8	A	East
+KH003-031	GSM1427771	3.095	prior	Cambodia	Ratanakiri	3.37	8	A	East
+KH003-032	GSM1427772	3.828	prior	Cambodia	Ratanakiri	8.73	8	A	East
+KH003-033	GSM1427773	0.946	prior	Cambodia	Ratanakiri	4.03	4	C	East
+KH003-034	GSM1427774	5.525	prior	Cambodia	Ratanakiri	4.99	8	A	East
+KH003-035	GSM1427775	4.961	prior	Cambodia	Ratanakiri	4.18	8	A	East
+KH003-036	GSM1427776	3.328	prior	Cambodia	Ratanakiri	9.3	8	A	East
+KH003-037	GSM1427777	3.573	prior	Cambodia	Ratanakiri	5.35	8	A	East
+KH003-038	GSM1427778	2.663	prior	Cambodia	Ratanakiri	2.31	8	A	East
+KH003-039	GSM1427779	3.633	prior	Cambodia	Ratanakiri	2.05	16	B	East
+KH003-040	GSM1427780	1.798	prior	Cambodia	Ratanakiri	8.42	8	A	East
+KH003-041	GSM1427781	2.312	prior	Cambodia	Ratanakiri	6.4	8	A	East
+KH003-042	GSM1427782	3.387	prior	Cambodia	Ratanakiri	3.66	8	A	East
+KH003-043	GSM1427783	3.199	prior	Cambodia	Ratanakiri	1.07	8	C	East
+KH003-044	GSM1427784	2.374	prior	Cambodia	Ratanakiri	3.3	8	A	East
+KH003-045	GSM1427785	1.379	prior	Cambodia	Ratanakiri	11.86	16	B	East
+KH003-046	GSM1427786	3.439	prior	Cambodia	Ratanakiri	6.16	10	A	East
+KH003-047	GSM1427787	2.678	prior	Cambodia	Ratanakiri	2.22	8	A	East
+KH003-048	GSM1427788	2.417	prior	Cambodia	Ratanakiri	4.37	8	A	East
+KH003-049	GSM1427789	3.019	prior	Cambodia	Ratanakiri	6.8	8	A	East
+KH003-050	GSM1427790	2.198	prior	Cambodia	Ratanakiri	5.84	12	B	East
+KH003-051	GSM1427791	3.578	prior	Cambodia	Ratanakiri	9.03	8	A	East
+KH003-052	GSM1427792	3.854	prior	Cambodia	Ratanakiri	8.2	8	A	East
+KH003-053	GSM1427793	3.804	prior	Cambodia	Ratanakiri	7.1	8	C	East
+KH003-054	GSM1427794	3.106	prior	Cambodia	Ratanakiri	6.67	8	A	East
+KH003-055	GSM1427795	4.308	prior	Cambodia	Ratanakiri	38.05	12	C	East
+KH003-056	GSM1427796	5.251	prior	Cambodia	Ratanakiri	14.29	12	B	East
+KH003-057	GSM1427797	2.122	prior	Cambodia	Ratanakiri	0.9	16	B	East
+KH003-058	GSM1427798	4.128	prior	Cambodia	Ratanakiri	6.77	8	A	East
+KH003-059	GSM1427799	2.299	prior	Cambodia	Ratanakiri	4.39	16	B	East
+KH003-060	GSM1427800	3.334	prior	Cambodia	Ratanakiri	5.39	8	A	East
+KH003-061	GSM1427801	2.345	prior	Cambodia	Ratanakiri	4.71	8	A	East
+KH003-063	GSM1427802	3.188	prior	Cambodia	Ratanakiri	1.34	8	A	East
+KH003-064	GSM1427803	3.517	prior	Cambodia	Ratanakiri	4.56	8	A	East
+KH003-065	GSM1427804	2.899	prior	Cambodia	Ratanakiri	10.94	18	B	East
+KH003-066	GSM1427805	4.242	prior	Cambodia	Ratanakiri	4.22	10	C	East
+KH003-067	GSM1427806	3.594	prior	Cambodia	Ratanakiri	26.92	8	A	East
+KH003-068	GSM1427807	4.881	prior	Cambodia	Ratanakiri	7.14	8	A	East
+KH003-069	GSM1427808	3.029	prior	Cambodia	Ratanakiri	4.59	8	C	East
+KH003-070	GSM1427809	4.764	prior	Cambodia	Ratanakiri	5.06	14	B	East
+KH003-071	GSM1427810	2.823	prior	Cambodia	Ratanakiri	13.37	16	B	East
+KH003-072	GSM1427811	3.342	prior	Cambodia	Ratanakiri	2.8	8	A	East
+KH003-073	GSM1427812	1.936	prior	Cambodia	Ratanakiri	3.65	8	A	East
+KH003-074	GSM1427813	3.166	prior	Cambodia	Ratanakiri	5.11	8	A	East
+KH003-075	GSM1427814	3.107	prior	Cambodia	Ratanakiri	3.73	12	B	East
+KH003-076	GSM1427815	3.464	prior	Cambodia	Ratanakiri	4.28	16	B	East
+KH003-077	GSM1427816	5.043	prior	Cambodia	Ratanakiri	16.68	8	A	East
+KH003-078	GSM1427817	3.201	prior	Cambodia	Ratanakiri	7.97	8	A	East
+KH003-079	GSM1427818	2.294	prior	Cambodia	Ratanakiri	16.08	16	B	East
+KH003-080	GSM1427819	2.55	prior	Cambodia	Ratanakiri	3.43	8	C	East
+KH003-081	GSM1427820	3.029	prior	Cambodia	Ratanakiri	7.73	8	A	East
+KH003-082	GSM1427821	2.86	prior	Cambodia	Ratanakiri	8.31	8	A	East
+KH003-083	GSM1427822	0.666	prior	Cambodia	Ratanakiri	1.98	16	B	East
+KH003-084	GSM1427823	3.451	prior	Cambodia	Ratanakiri	5.63	4	A	East
+KH003-085	GSM1427824	2.643	prior	Cambodia	Ratanakiri	18.38	8	C	East
+KH003-086	GSM1427825	2.526	prior	Cambodia	Ratanakiri	2.4	16	B	East
+KH003-087	GSM1427826	2.839	prior	Cambodia	Ratanakiri	5.75	14	B	East
+KH003-088	GSM1427827	2.512	prior	Cambodia	Ratanakiri	5.66	8	C	East
+KH003-089	GSM1427828	1.92	prior	Cambodia	Ratanakiri	3.42	8	A	East
+KH003-090	GSM1427829	1.978	prior	Cambodia	Ratanakiri	1.39	4	C	East
+KH003-091	GSM1427830	3.378	prior	Cambodia	Ratanakiri	2.96	8	A	East
+KH003-092	GSM1427831	3.328	prior	Cambodia	Ratanakiri	1.95	12	B	East
+KH003-094	GSM1427832	2.936	prior	Cambodia	Ratanakiri	8.4	12	B	East
+KH003-095	GSM1427833	3.256	prior	Cambodia	Ratanakiri	17.74	14	B	East
+KH003-096	GSM1427834	3.954	prior	Cambodia	Ratanakiri	20.04	8	C	East
+KH003-097	GSM1427835	3.988	prior	Cambodia	Ratanakiri	2.06	4	C	East
+KH003-098	GSM1427836	1.475	prior	Cambodia	Ratanakiri	1.89	16	B	East
+KH003-099	GSM1427837	3	prior	Cambodia	Ratanakiri	4.99	8	A	East
+KH003-100	GSM1427838	3.722	prior	Cambodia	Ratanakiri	12.98	46	C	East
+KH003-101	GSM1427839	3.662	prior	Cambodia	Ratanakiri	4.66	8	A	East
+KH003-102	GSM1427840	3.086	prior	Cambodia	Ratanakiri	3.72	8	A	East
+KH003-103	GSM1427841	5.992	prior	Cambodia	Ratanakiri	4.58	8	A	East
+KH003-104	GSM1427842	1.714	prior	Cambodia	Ratanakiri	11.23	10	A	East
+KH003-105	GSM1427843	2.914	prior	Cambodia	Ratanakiri	8.86	8	C	East
+KH003-107	GSM1427844	1.239	prior	Cambodia	Ratanakiri	9.65	16	B	East
+KH003-109	GSM1427845	2.483	prior	Cambodia	Ratanakiri	8.82	8	A	East
+KH003-110	GSM1427846	3.014	prior	Cambodia	Ratanakiri	5.82	8	A	East
+KH003-111	GSM1427847	2.453	prior	Cambodia	Ratanakiri	3.02	8	A	East
+KH003-112	GSM1427848	4.481	prior	Cambodia	Ratanakiri	4.71	8	C	East
+KH003-113	GSM1427849	3.693	prior	Cambodia	Ratanakiri	6.7	4	C	East
+KH003-114	GSM1427850	2.233	prior	Cambodia	Ratanakiri	10.82	8	A	East
+KH003-115	GSM1427851	2.322	prior	Cambodia	Ratanakiri	3.6	8	A	East
+KH003-116	GSM1427852	4.573	prior	Cambodia	Ratanakiri	8.32	10	B	East
+KH003-117	GSM1427853	2.307	prior	Cambodia	Ratanakiri	5.12	16	B	East
+KH003-118	GSM1427854	2.476	prior	Cambodia	Ratanakiri	6.6	4	C	East
+KH003-119	GSM1427855	4.71	prior	Cambodia	Ratanakiri	47.78	6	C	East
+KH003-120	GSM1427856	2.228	prior	Cambodia	Ratanakiri	4.69	8	C	East
+KH004-001	GSM1427857	4.367	prior	Cambodia	Pailin	1.13	10	A	East
+KH004-002	GSM1427858	5.42	prior	Cambodia	Pailin	1.72	8	A	East
+KH004-005	GSM1427859	7.197	prior	Cambodia	Pailin	1.59	8	C	East
+KH004-007	GSM1427860	5.46	prior	Cambodia	Pailin	1.15	8	A	East
+KH004-012	GSM1427862	6.069	prior	Cambodia	Pailin	1.88	8	A	East
+KH004-013	GSM1427863	6.098	prior	Cambodia	Pailin	2.09	8	A	East
+KH004-014	GSM1427864	8.26	prior	Cambodia	Pailin	1.68	8	A	East
+KH004-016	GSM1427866	3.813	prior	Cambodia	Pailin	2.24	10	B	East
+KH004-018	GSM1427867	5.022	prior	Cambodia	Pailin	5.94	8	A	East
+KH004-019	GSM1427868	7.012	prior	Cambodia	Pailin	2.01	8	A	East
+KH004-020	GSM1427869	5.322	prior	Cambodia	Pailin	3.34	14	B	East
+KH004-021	GSM1427870	5.338	prior	Cambodia	Pailin	2.38	10	A	East
+KH004-022	GSM1427871	4.227	prior	Cambodia	Pailin	2.19	8	C	East
+KH004-023	GSM1427872	3.554	prior	Cambodia	Pailin	1.79	16	B	East
+KH004-024	GSM1427873	5.476	prior	Cambodia	Pailin	2	8	A	East
+KH004-025	GSM1427874	4.364	prior	Cambodia	Pailin	4.26	8	A	East
+KH004-027	GSM1427875	5.293	prior	Cambodia	Pailin	4.44	8	A	East
+KH004-028	GSM1427876	6.945	prior	Cambodia	Pailin	2.42	8	A	East
+KH004-030	GSM1427877	3.567	prior	Cambodia	Pailin	2	8	A	East
+KH004-031	GSM1427878	7.599	prior	Cambodia	Pailin	4.1	8	A	East
+KH004-032	GSM1427879	7.905	prior	Cambodia	Pailin	3.12	8	A	East
+KH004-033	GSM1427880	6.462	prior	Cambodia	Pailin	2.88	10	A	East
+KH004-034	GSM1427881	5.751	prior	Cambodia	Pailin	1.66	8	A	East
+KH004-035	GSM1427882	3.232	prior	Cambodia	Pailin	10.85	8	C	East
+KH004-036	GSM1427883	5.297	prior	Cambodia	Pailin	3.98	8	A	East
+KH004-037	GSM1427884	7.695	prior	Cambodia	Pailin	2.73	8	A	East
+KH004-038	GSM1427885	7.307	prior	Cambodia	Pailin	1.45	8	A	East
+KH004-039	GSM1427886	6.466	prior	Cambodia	Pailin	1.97	8	A	East
+KH004-040	GSM1427887	7.725	prior	Cambodia	Pailin	3.72	8	A	East
+KH004-042	GSM1427889	2.799	prior	Cambodia	Pailin	3.42	4	A	East
+KH004-043	GSM1427890	5.454	prior	Cambodia	Pailin	2.24	14	B	East
+KH004-044	GSM1427891	3.176	prior	Cambodia	Pailin	2.08	8	C	East
+KH004-045	GSM1427892	5.075	prior	Cambodia	Pailin	2.28	8	A	East
+KH004-046	GSM1427893	6.031	prior	Cambodia	Pailin	2.66	12	B	East
+KH004-047	GSM1427894	8.457	prior	Cambodia	Pailin	6.62	10	A	East
+KH004-048	GSM1427895	6.902	prior	Cambodia	Pailin	8.66	8	A	East
+KH004-049	GSM1427896	6.812	prior	Cambodia	Pailin	1.76	10	A	East
+KH004-051	GSM1427897	4.593	prior	Cambodia	Pailin	4.03	8	A	East
+KH004-052	GSM1427898	6.169	prior	Cambodia	Pailin	1.82	10	C	East
+KH004-053	GSM1427899	8.205	prior	Cambodia	Pailin	3.34	8	A	East
+KH004-054	GSM1427900	5.654	prior	Cambodia	Pailin	3.31	12	C	East
+KH004-055	GSM1427901	6.012	prior	Cambodia	Pailin	4.11	8	A	East
+KH004-056	GSM1427902	3.303	prior	Cambodia	Pailin	9.84	8	A	East
+KH004-057	GSM1427903	4.059	prior	Cambodia	Pailin	4.11	14	B	East
+KH004-058	GSM1427904	6.6	prior	Cambodia	Pailin	4.86	8	A	East
+KH004-059	GSM1427905	6.851	prior	Cambodia	Pailin	1.4	12	C	East
+KH004-060	GSM1427906	4.761	prior	Cambodia	Pailin	6.21	8	A	East
+KH004-061	GSM1427907	7.604	prior	Cambodia	Pailin	1.93	8	C	East
+KH004-062	GSM1427908	7.937	prior	Cambodia	Pailin	1.14	8	C	East
+KH004-063	GSM1427909	6.892	prior	Cambodia	Pailin	2.7	14	B	East
+KH004-064	GSM1427910	3.666	prior	Cambodia	Pailin	5.08	10	A	East
+KH004-065	GSM1427911	6.288	prior	Cambodia	Pailin	1.74	10	B	East
+KH004-066	GSM1427912	8.899	prior	Cambodia	Pailin	3.35	4	A	East
+KH004-067	GSM1427913	2.922	prior	Cambodia	Pailin	7.46	8	A	East
+KH004-068	GSM1427914	7.177	prior	Cambodia	Pailin	2.78	8	A	East
+KH004-069	GSM1427915	6.991	prior	Cambodia	Pailin	2.25	14	B	East
+KH004-070	GSM1427916	7.815	prior	Cambodia	Pailin	3.46	8	A	East
+KH004-071	GSM1427917	6.987	prior	Cambodia	Pailin	3.61	14	B	East
+KH004-073	GSM1427918	3.937	prior	Cambodia	Pailin	6.77	8	C	East
+KH004-073	GSM1427918	3.937	prior	Cambodia	Pailin	7.02	44	C	East
+KH004-073	GSM1427919	3.937	prior	Cambodia	Pailin	6.77	8	C	East
+KH004-073	GSM1427919	3.937	prior	Cambodia	Pailin	7.02	44	C	East
+KH004-074	GSM1427920	7.639	prior	Cambodia	Pailin	11.79	8	A	East
+KH004-075	GSM1427921	6.558	prior	Cambodia	Pailin	7.97	10	C	East
+KH004-076	GSM1427922	4.993	prior	Cambodia	Pailin	14.15	8	C	East
+KH004-077	GSM1427923	3.437	prior	Cambodia	Pailin	10.31	8	C	East
+KH004-078	GSM1427924	6.556	prior	Cambodia	Pailin	14.24	4	C	East
+KH004-079	GSM1427925	8.235	prior	Cambodia	Pailin	3.39	8	A	East
+KH004-080	GSM1427926	7.179	prior	Cambodia	Pailin	2.02	8	A	East
+KH004-081	GSM1427927	4.75	prior	Cambodia	Pailin	5.49	8	C	East
+KH004-082	GSM1427928	7.552	prior	Cambodia	Pailin	6	8	A	East
+KH004-083	GSM1427929	6.526	prior	Cambodia	Pailin	4.88	8	A	East
+KH004-084	GSM1427930	8.203	prior	Cambodia	Pailin	12.9	8	A	East
+KH004-084	GSM1427930	8.203	prior	Cambodia	Pailin	2.32	10	A	East
+KH004-084	GSM1427931	8.203	prior	Cambodia	Pailin	12.9	8	A	East
+KH004-084	GSM1427931	8.203	prior	Cambodia	Pailin	2.32	10	A	East
+KH004-085	GSM1427932	6.07	prior	Cambodia	Pailin	5.76	14	C	East
+KH004-086	GSM1427933	6.518	prior	Cambodia	Pailin	2.54	10	A	East
+KH004-087	GSM1427934	6.145	prior	Cambodia	Pailin	6.11	14	B	East
+KH004-088	GSM1427935	7.067	prior	Cambodia	Pailin	6.92	12	B	East
+KH004-089	GSM1427936	7.539	prior	Cambodia	Pailin	8.54	8	A	East
+KH004-090	GSM1427937	4.27	prior	Cambodia	Pailin	3.09	16	B	East
+KH004-091	GSM1427938	8.951	prior	Cambodia	Pailin	7.04	8	A	East
+KH004-092	GSM1427939	5.91	prior	Cambodia	Pailin	6.59	8	C	East
+KH004-093	GSM1427940	7.159	prior	Cambodia	Pailin	6.51	8	A	East
+KH004-094	GSM1427941	6.05	prior	Cambodia	Pailin	7.75	8	C	East
+KH004-095	GSM1427942	5.604	prior	Cambodia	Pailin	9.48	8	A	East
+KH004-096	GSM1427943	4.922	prior	Cambodia	Pailin	5.27	8	A	East
+KH004-097	GSM1427944	2.373	prior	Cambodia	Pailin	14.81	8	A	East
+KH004-098	GSM1427945	7.81	prior	Cambodia	Pailin	4.47	8	A	East
+KH004-099	GSM1427946	8.725	prior	Cambodia	Pailin	4.25	10	A	East
+KH004-100	GSM1427947	6.594	prior	Cambodia	Pailin	2.03	8	A	East
+LA001-001	GSM1427948	1.574	prior	Laos	Attapeu	8.99	8	A	East
+LA001-002	GSM1427949	2.755	prior	Laos	Attapeu	2.38	14	B	East
+LA001-003	GSM1427950	2.599	prior	Laos	Attapeu	3.86	8	A	East
+LA001-004	GSM1427951	1.777	prior	Laos	Attapeu	4.88	8	A	East
+LA001-005	GSM1427952	1.443	prior	Laos	Attapeu	2.53	18	B	East
+LA001-006	GSM1427953	1.748	prior	Laos	Attapeu	2.76	16	B	East
+LA001-007	GSM1427954	1.898	prior	Laos	Attapeu	5.31	14	B	East
+LA001-008	GSM1427955	1.433	prior	Laos	Attapeu	4.85	8	A	East
+LA001-009	GSM1427956	1.639	prior	Laos	Attapeu	5.05	12	B	East
+LA001-010	GSM1427957	2.065	prior	Laos	Attapeu	6.02	8	A	East
+LA001-011	GSM1427958	1.609	prior	Laos	Attapeu	3.29	8	A	East
+LA001-012	GSM1427959	1.726	prior	Laos	Attapeu	2.16	16	B	East
+LA001-013	GSM1427960	1.399	prior	Laos	Attapeu	1.81	16	B	East
+LA001-015	GSM1427961	1.275	prior	Laos	Attapeu	1.92	16	B	East
+LA001-016	GSM1427962	3.391	prior	Laos	Attapeu	1.22	10	A	East
+LA001-018	GSM1427963	1.847	prior	Laos	Attapeu	0.92	8	A	East
+LA001-019	GSM1427964	2.806	prior	Laos	Attapeu	1.86	12	B	East
+LA001-020	GSM1427965	2.332	prior	Laos	Attapeu	12.81	8	C	East
+LA001-022	GSM1427966	1.776	prior	Laos	Attapeu	1.26	8	A	East
+LA001-023	GSM1427967	1.156	prior	Laos	Attapeu	2.35	8	A	East
+LA001-024	GSM1427968	2.223	prior	Laos	Attapeu	1.6	8	A	East
+LA001-034	GSM1427969	1.867	prior	Laos	Attapeu	1.42	8	C	East
+LA001-038	GSM1427970	1.963	prior	Laos	Attapeu	1.84	8	A	East
+LA001-041	GSM1427971	2.684	prior	Laos	Attapeu	3.37	10	B	East
+LA001-042	GSM1427972	1.557	prior	Laos	Attapeu	2.41	8	A	East
+LA001-043	GSM1427973	2.758	prior	Laos	Attapeu	8.72	12	B	East
+LA001-044	GSM1427974	2.489	prior	Laos	Attapeu	16.47	4	A	East
+LA001-045	GSM1427975	2.001	prior	Laos	Attapeu	2.61	8	A	East
+LA001-046	GSM1427976	2.191	prior	Laos	Attapeu	5.4	8	A	East
+LA001-047	GSM1427977	2.049	prior	Laos	Attapeu	2.34	8	A	East
+LA001-049	GSM1427978	3.076	prior	Laos	Attapeu	5.54	8	A	East
+LA001-050	GSM1427979	2.993	prior	Laos	Attapeu	9.56	8	A	East
+LA001-051	GSM1427980	3.257	prior	Laos	Attapeu	1.83	8	A	East
+LA001-052	GSM1427981	9.183	prior	Laos	Attapeu	17.36	8	C	East
+LA001-063	GSM1427983	2.171	prior	Laos	Attapeu	3.33	4	C	East
+LA001-064	GSM1427984	2.048	prior	Laos	Attapeu	3.04	8	A	East
+LA001-065	GSM1427985	5.597	prior	Laos	Attapeu	5.82	12	B	East
+LA001-066	GSM1427986	2.951	prior	Laos	Attapeu	1.78	8	C	East
+LA001-068	GSM1427987	2.678	prior	Laos	Attapeu	2.97	4	C	East
+LA001-069	GSM1427988	1.175	prior	Laos	Attapeu	2.56	16	B	East
+LA001-070	GSM1427989	2.353	prior	Laos	Attapeu	3.21	8	A	East
+LA001-071	GSM1427990	1.321	prior	Laos	Attapeu	1.56	8	C	East
+LA001-072	GSM1427991	2.986	prior	Laos	Attapeu	5.26	4	A	East
+LA001-073	GSM1427992	1.432	prior	Laos	Attapeu	2.26	12	B	East
+LA001-075	GSM1427994	1.79	prior	Laos	Attapeu	4.94	14	B	East
+LA001-076	GSM1427995	3.292	prior	Laos	Attapeu	3.91	8	A	East
+LA001-079	GSM1427998	1.261	prior	Laos	Attapeu	3.97	8	C	East
+LA001-080	GSM1427999	3.171	prior	Laos	Attapeu	8.76	4	C	East
+LA001-081	GSM1428000	2.275	prior	Laos	Attapeu	6.08	4	C	East
+LA001-082	GSM1428001	2.275	prior	Laos	Attapeu	12.43	8	A	East
+LA001-083	GSM1428002	2.518	prior	Laos	Attapeu	3.05	4	C	East
+LA001-085	GSM1428004	1.114	prior	Laos	Attapeu	4.03	8	A	East
+LA001-091	GSM1428006	1.75	prior	Laos	Attapeu	10.73	8	C	East
+LA001-092	GSM1428007	1.976	prior	Laos	Attapeu	3.23	8	C	East
+LA001-093	GSM1428008	1.861	prior	Laos	Attapeu	3.09	12	B	East
+LA001-094	GSM1428009	2.265	prior	Laos	Attapeu	0.84	8	A	East
+LA001-095	GSM1428010	1.626	prior	Laos	Attapeu	0.78	8	A	East
+LA001-096	GSM1428011	1.989	prior	Laos	Attapeu	4.04	8	A	East
+LA001-097	GSM1428012	3.501	prior	Laos	Attapeu	2.93	12	B	East
+LA001-098	GSM1428013	2.498	prior	Laos	Attapeu	5.92	8	A	East
+LA001-099	GSM1428014	1.162	prior	Laos	Attapeu	4.47	8	A	East
+LA001-100	GSM1428015	1.371	prior	Laos	Attapeu	6.73	18	C	East
+LA001-101	GSM1428016	5.373	prior	Laos	Attapeu	2.24	8	A	East
+LA001-102	GSM1428017	2.015	prior	Laos	Attapeu	43.37	4	C	East
+LA001-103	GSM1428018	2.252	prior	Laos	Attapeu	18.84	8	C	East
+LA001-105	GSM1428019	1.519	prior	Laos	Attapeu	10.44	8	C	East
+LA001-107	GSM1428021	4.473	prior	Laos	Attapeu	4.63	8	A	East
+LA001-108	GSM1428022	1.471	prior	Laos	Attapeu	8	8	A	East
+LA001-109	GSM1428023	1.437	prior	Laos	Attapeu	20.99	14	B	East
+LA001-111	GSM1428025	1.844	prior	Laos	Attapeu	6.06	16	B	East
+LA001-112	GSM1428026	2.114	prior	Laos	Attapeu	2.5	8	A	East
+LA001-113	GSM1428027	1.203	prior	Laos	Attapeu	1.66	4	C	East
+LA001-114	GSM1428028	2.808	prior	Laos	Attapeu	1.1	16	B	East
+LA001-115	GSM1428029	1.385	prior	Laos	Attapeu	3.68	4	C	East
+LA001-116	GSM1428030	2.078	prior	Laos	Attapeu	2.66	8	A	East
+LA001-117	GSM1428031	1.635	prior	Laos	Attapeu	3.66	4	C	East
+LA001-118	GSM1428032	1.673	prior	Laos	Attapeu	5.08	8	C	East
+LA001-119	GSM1428033	2.677	prior	Laos	Attapeu	2.35	4	A	East
+LA001-120	GSM1428034	2.303	prior	Laos	Attapeu	4.89	4	A	East
+MM001-001	GSM1428035	2.556	prior	Myanmar	Shwe Kyin	9.19	8	A	West
+MM001-002	GSM1428036	7.971	prior	Myanmar	Shwe Kyin	3.43	8	A	West
+MM001-003	GSM1428037	4.097	prior	Myanmar	Shwe Kyin	8.13	8	A	West
+MM001-004	GSM1428038	3.918	prior	Myanmar	Shwe Kyin	6.37	10	A	West
+MM001-005	GSM1428039	2.843	prior	Myanmar	Shwe Kyin	5.21	8	A	West
+MM001-005	GSM1428039	2.843	prior	Myanmar	Shwe Kyin	8.16	8	A	West
+MM001-005	GSM1428040	2.843	prior	Myanmar	Shwe Kyin	5.21	8	A	West
+MM001-005	GSM1428040	2.843	prior	Myanmar	Shwe Kyin	8.16	8	A	West
+MM001-006	GSM1428041	3.725	prior	Myanmar	Shwe Kyin	3.39	8	A	West
+MM001-006	GSM1428041	3.725	prior	Myanmar	Shwe Kyin	7.21	8	A	West
+MM001-006	GSM1428042	3.725	prior	Myanmar	Shwe Kyin	3.39	8	A	West
+MM001-006	GSM1428042	3.725	prior	Myanmar	Shwe Kyin	7.21	8	A	West
+MM001-007	GSM1428043	1.716	prior	Myanmar	Shwe Kyin	4.79	8	A	West
+MM001-008	GSM1428044	1.822	prior	Myanmar	Shwe Kyin	4.38	8	A	West
+MM001-009	GSM1428045	3.758	prior	Myanmar	Shwe Kyin	0.96	14	B	West
+MM001-010	GSM1428046	6.224	prior	Myanmar	Shwe Kyin	3.6	8	A	West
+MM001-011	GSM1428047	2.964	prior	Myanmar	Shwe Kyin	22	8	A	West
+MM001-012	GSM1428048	4.2	prior	Myanmar	Shwe Kyin	20.85	8	C	West
+MM001-013	GSM1428049	2.905	prior	Myanmar	Shwe Kyin	14.17	8	A	West
+MM001-014	GSM1428050	3.758	prior	Myanmar	Shwe Kyin	14.06	8	A	West
+MM001-015	GSM1428051	3.018	prior	Myanmar	Shwe Kyin	12.61	8	A	West
+MM001-016	GSM1428052	2.604	prior	Myanmar	Shwe Kyin	4.02	10	A	West
+MM001-017	GSM1428053	3.245	prior	Myanmar	Shwe Kyin	6.07	8	A	West
+MM001-018	GSM1428054	4.093	prior	Myanmar	Shwe Kyin	22.44	8	C	West
+MM001-019	GSM1428055	2.537	prior	Myanmar	Shwe Kyin	10.58	8	A	West
+MM001-020	GSM1428056	2.063	prior	Myanmar	Shwe Kyin	16.26	10	A	West
+MM001-021	GSM1428057	7.436	prior	Myanmar	Shwe Kyin	6.25	8	A	West
+MM001-022	GSM1428058	5.042	prior	Myanmar	Shwe Kyin	8.28	8	A	West
+MM001-023	GSM1428059	5.714	prior	Myanmar	Shwe Kyin	17.38	14	B	West
+MM001-024	GSM1428060	2.616	prior	Myanmar	Shwe Kyin	18.49	8	A	West
+MM001-025	GSM1428061	3.115	prior	Myanmar	Shwe Kyin	15.88	46	C	West
+MM001-026	GSM1428062	2.687	prior	Myanmar	Shwe Kyin	11.96	10	A	West
+MM001-027	GSM1428063	1.324	prior	Myanmar	Shwe Kyin	8.88	16	B	West
+MM001-028	GSM1428064	1.522	prior	Myanmar	Shwe Kyin	5.93	8	A	West
+MM001-029	GSM1428065	2.384	prior	Myanmar	Shwe Kyin	9.81	10	A	West
+MM001-030	GSM1428066	2.301	prior	Myanmar	Shwe Kyin	5.64	8	A	West
+MM001-031	GSM1428067	2.465	prior	Myanmar	Shwe Kyin	10.12	16	B	West
+MM001-032	GSM1428068	3.282	prior	Myanmar	Shwe Kyin	16.07	4	C	West
+MM001-033	GSM1428069	1.972	prior	Myanmar	Shwe Kyin	6.28	14	B	West
+MM001-034	GSM1428070	2.643	prior	Myanmar	Shwe Kyin	9.26	8	A	West
+MM001-035	GSM1428071	3.109	prior	Myanmar	Shwe Kyin	9.65	8	C	West
+MM001-037	GSM1428073	2.833	prior	Myanmar	Shwe Kyin	6.68	8	A	West
+MM001-038	GSM1428074	3.386	prior	Myanmar	Shwe Kyin	6.88	10	A	West
+MM001-039	GSM1428075	1.382	prior	Myanmar	Shwe Kyin	8.97	16	B	West
+MM001-040	GSM1428076	3.467	prior	Myanmar	Shwe Kyin	4.44	14	B	West
+MM001-041	GSM1428077	6.769	prior	Myanmar	Shwe Kyin	9.59	8	A	West
+MM001-042	GSM1428078	2.372	prior	Myanmar	Shwe Kyin	5.82	8	A	West
+MM001-043	GSM1428079	2.943	prior	Myanmar	Shwe Kyin	45.11	14	C	West
+MM001-044	GSM1428080	2.331	prior	Myanmar	Shwe Kyin	10.44	14	B	West
+MM001-045	GSM1428081	2.924	prior	Myanmar	Shwe Kyin	6	8	A	West
+MM001-046	GSM1428082	2.447	prior	Myanmar	Shwe Kyin	11.01	4	C	West
+MM001-047	GSM1428083	3.318	prior	Myanmar	Shwe Kyin	10.69	8	A	West
+MM001-048	GSM1428084	4.538	prior	Myanmar	Shwe Kyin	18.71	4	C	West
+MM001-049	GSM1428085	2.98	prior	Myanmar	Shwe Kyin	25.15	10	A	West
+MM001-050	GSM1428086	3.264	prior	Myanmar	Shwe Kyin	30.84	8	A	West
+MM001-051	GSM1428087	3.015	prior	Myanmar	Shwe Kyin	27.2	8	C	West
+MM001-052	GSM1428088	4.647	prior	Myanmar	Shwe Kyin	11.67	8	A	West
+MM001-053	GSM1428089	6.791	prior	Myanmar	Shwe Kyin	8.7	8	A	West
+MM001-054	GSM1428090	3.487	prior	Myanmar	Shwe Kyin	4.33	8	A	West
+MM001-055	GSM1428091	2.995	prior	Myanmar	Shwe Kyin	4.81	16	B	West
+MM001-056	GSM1428092	4.808	prior	Myanmar	Shwe Kyin	2.77	16	B	West
+MM001-057	GSM1428093	3.687	prior	Myanmar	Shwe Kyin	3.39	10	C	West
+MM001-058	GSM1428094	4.153	prior	Myanmar	Shwe Kyin	6.24	10	B	West
+MM001-059	GSM1428095	2.742	prior	Myanmar	Shwe Kyin	6.34	6	C	West
+MM001-060	GSM1428096	2.55	prior	Myanmar	Shwe Kyin	8.49	16	B	West
+MM001-061	GSM1428097	2.932	prior	Myanmar	Shwe Kyin	18.36	14	B	West
+MM001-062	GSM1428098	4.32	prior	Myanmar	Shwe Kyin	5.38	8	A	West
+MM001-063	GSM1428099	8.582	prior	Myanmar	Shwe Kyin	5.58	10	A	West
+MM001-064	GSM1428100	2.232	prior	Myanmar	Shwe Kyin	2.06	8	A	West
+MM001-065	GSM1428101	1.483	prior	Myanmar	Shwe Kyin	6.32	8	A	West
+MM001-066	GSM1428102	3.2	prior	Myanmar	Shwe Kyin	2.93	8	A	West
+MM001-067	GSM1428103	1.278	prior	Myanmar	Shwe Kyin	7.6	8	A	West
+MM001-068	GSM1428104	2.254	prior	Myanmar	Shwe Kyin	7.78	16	B	West
+MM001-069	GSM1428105	7.373	prior	Myanmar	Shwe Kyin	59.94	8	C	West
+MM001-070	GSM1428106	3.423	prior	Myanmar	Shwe Kyin	6.54	10	A	West
+MM001-071	GSM1428107	3.805	prior	Myanmar	Shwe Kyin	16.15	10	A	West
+MM001-072	GSM1428108	4.125	prior	Myanmar	Shwe Kyin	17.19	4	C	West
+MM001-073	GSM1428109	3.713	prior	Myanmar	Shwe Kyin	4.88	18	B	West
+MM001-074	GSM1428110	7.957	prior	Myanmar	Shwe Kyin	5.78	8	A	West
+MM001-075	GSM1428111	8.352	prior	Myanmar	Shwe Kyin	29.29	4	C	West
+MM001-076	GSM1428112	3.47	prior	Myanmar	Shwe Kyin	10.36	16	B	West
+MM001-077	GSM1428113	2.556	prior	Myanmar	Shwe Kyin	6.75	4	A	West
+MM001-078	GSM1428114	3.894	prior	Myanmar	Shwe Kyin	12.76	8	A	West
+MM001-079	GSM1428115	4.745	prior	Myanmar	Shwe Kyin	5.04	16	B	West
+MM001-080	GSM1428116	2.279	prior	Myanmar	Shwe Kyin	4.31	16	B	West
+TH004-001	GSM1428117	2.665	prior	Thailand	Mae Sot	3.53	18	B	West
+TH004-002	GSM1428118	8.344	prior	Thailand	Mae Sot	16.09	8	A	West
+TH004-003	GSM1428119	5.73	prior	Thailand	Mae Sot	2.68	8	A	West
+TH004-004	GSM1428120	2.305	prior	Thailand	Mae Sot	5	10	C	West
+TH004-005	GSM1428121	7.802	prior	Thailand	Mae Sot	1.64	10	B	West
+TH004-006	GSM1428122	5.954	prior	Thailand	Mae Sot	2.88	8	C	West
+TH004-007	GSM1428123	8.336	prior	Thailand	Mae Sot	2.67	14	B	West
+TH004-008	GSM1428124	0.732	prior	Thailand	Mae Sot	2.37	18	B	West
+TH004-009	GSM1428125	4.765	prior	Thailand	Mae Sot	5.97	12	B	West
+TH004-010	GSM1428126	3.828	prior	Thailand	Mae Sot	5.01	8	A	West
+TH004-011	GSM1428127	6.617	prior	Thailand	Mae Sot	0.86	16	B	West
+TH004-012	GSM1428128	3.182	prior	Thailand	Mae Sot	4.94	8	A	West
+TH004-013	GSM1428129	4.912	prior	Thailand	Mae Sot	2.69	8	C	West
+TH004-014	GSM1428130	5.61	prior	Thailand	Mae Sot	9.62	8	A	West
+TH004-015	GSM1428131	3	prior	Thailand	Mae Sot	12.49	8	A	West
+TH004-016	GSM1428132	4.682	prior	Thailand	Mae Sot	4.49	14	B	West
+TH004-017	GSM1428133	1.446	prior	Thailand	Mae Sot	3.34	16	B	West
+TH004-018	GSM1428134	6.671	prior	Thailand	Mae Sot	4.04	12	B	West
+TH004-019	GSM1428135	2.699	prior	Thailand	Mae Sot	5.5	8	C	West
+TH004-020	GSM1428136	2.452	prior	Thailand	Mae Sot	5.67	8	A	West
+TH004-021	GSM1428137	5.458	prior	Thailand	Mae Sot	3.87	8	C	West
+TH004-022	GSM1428138	5.757	prior	Thailand	Mae Sot	10.59	8	A	West
+TH004-023	GSM1428139	7.643	prior	Thailand	Mae Sot	2.27	8	C	West
+TH004-024	GSM1428140	7.667	prior	Thailand	Mae Sot	5.2	8	A	West
+TH004-025	GSM1428141	4.522	prior	Thailand	Mae Sot	2.65	8	A	West
+TH004-026	GSM1428142	2.261	prior	Thailand	Mae Sot	2.71	8	A	West
+TH004-027	GSM1428143	3.123	prior	Thailand	Mae Sot	13.11	16	B	West
+TH004-028	GSM1428144	4.22	prior	Thailand	Mae Sot	3.74	12	B	West
+TH004-028	GSM1428144	4.22	prior	Thailand	Mae Sot	3.48	12	B	West
+TH004-028	GSM1428145	4.22	prior	Thailand	Mae Sot	3.74	12	B	West
+TH004-028	GSM1428145	4.22	prior	Thailand	Mae Sot	3.48	12	B	West
+TH004-029	GSM1428147	8.413	prior	Thailand	Mae Sot	5	8	A	West
+TH004-029	GSM1428147	8.413	prior	Thailand	Mae Sot	4.96	8	A	West
+TH004-029	GSM1428146	8.413	prior	Thailand	Mae Sot	5	8	A	West
+TH004-029	GSM1428146	8.413	prior	Thailand	Mae Sot	4.96	8	A	West
+TH004-030	GSM1428148	2.932	prior	Thailand	Mae Sot	1.07	16	B	West
+TH004-031	GSM1428149	2.287	prior	Thailand	Mae Sot	3.77	8	A	West
+TH004-032	GSM1428150	5.045	prior	Thailand	Mae Sot	4.09	12	C	West
+TH004-033	GSM1428151	2.836	prior	Thailand	Mae Sot	4.49	12	B	West
+TH004-034	GSM1428152	7.012	prior	Thailand	Mae Sot	3.29	14	B	West
+TH004-035	GSM1428153	6.192	prior	Thailand	Mae Sot	9.01	12	B	West
+TH004-036	GSM1428154	7.301	prior	Thailand	Mae Sot	5.81	14	B	West
+TH004-037	GSM1428155	4.449	prior	Thailand	Mae Sot	38.17	14	B	West
+TH004-038	GSM1428156	4.297	prior	Thailand	Mae Sot	6.86	8	A	West
+TH004-039	GSM1428157	4.595	prior	Thailand	Mae Sot	5.92	12	B	West
+TH004-040	GSM1428158	5.968	prior	Thailand	Mae Sot	3.54	8	C	West
+TH004-041	GSM1428159	4.597	prior	Thailand	Mae Sot	1.57	8	C	West
+TH004-042	GSM1428160	4.381	prior	Thailand	Mae Sot	5.88	14	B	West
+TH004-044	GSM1428161	5.875	prior	Thailand	Mae Sot	5.1	12	B	West
+TH004-046	GSM1428162	3.892	prior	Thailand	Mae Sot	4.71	14	B	West
+TH004-047	GSM1428163	4.485	prior	Thailand	Mae Sot	4.08	8	A	West
+TH004-048	GSM1428164	5.468	prior	Thailand	Mae Sot	3.67	10	B	West
+TH004-049	GSM1428165	2.393	prior	Thailand	Mae Sot	5.33	12	B	West
+TH004-050	GSM1428166	7.121	prior	Thailand	Mae Sot	4.29	8	A	West
+TH004-051	GSM1428167	4.33	prior	Thailand	Mae Sot	3.03	16	B	West
+TH004-052	GSM1428168	4.55	prior	Thailand	Mae Sot	6.32	8	A	West
+TH004-053	GSM1428169	9.126	prior	Thailand	Mae Sot	5.26	8	A	West
+TH004-054	GSM1428170	4.44	prior	Thailand	Mae Sot	3.05	8	C	West
+TH004-055	GSM1428171	4.255	prior	Thailand	Mae Sot	5.47	14	B	West
+TH004-056	GSM1428172	6.182	prior	Thailand	Mae Sot	12.64	14	B	West
+TH004-057	GSM1428173	8.848	prior	Thailand	Mae Sot	3	8	C	West
+TH004-058	GSM1428174	4.987	prior	Thailand	Mae Sot	3.05	8	A	West
+TH004-059	GSM1428175	4.153	prior	Thailand	Mae Sot	3.99	8	C	West
+TH004-060	GSM1428176	6.034	prior	Thailand	Mae Sot	23.72	10	C	West
+TH004-061	GSM1428177	2.751	prior	Thailand	Mae Sot	10.89	10	A	West
+TH004-062	GSM1428178	5.321	prior	Thailand	Mae Sot	5.3	8	A	West
+TH004-063	GSM1428179	4.591	prior	Thailand	Mae Sot	6.09	12	B	West
+TH004-064	GSM1428180	10.059	prior	Thailand	Mae Sot	4.54	8	A	West
+TH004-065	GSM1428181	3.082	prior	Thailand	Mae Sot	12.23	8	A	West
+TH004-066	GSM1428182	6.166	prior	Thailand	Mae Sot	12.66	14	B	West
+TH004-067	GSM1428183	8.153	prior	Thailand	Mae Sot	27.71	8	C	West
+TH004-068	GSM1428184	4.418	prior	Thailand	Mae Sot	3.36	8	A	West
+TH004-069	GSM1428185	6.018	prior	Thailand	Mae Sot	2.52	8	A	West
+TH004-070	GSM1428186	3.337	prior	Thailand	Mae Sot	4.89	16	B	West
+TH004-071	GSM1428187	3.539	prior	Thailand	Mae Sot	16.02	16	B	West
+TH004-072	GSM1428188	2.323	prior	Thailand	Mae Sot	5.43	8	A	West
+TH004-073	GSM1428189	0.617	prior	Thailand	Mae Sot	7.01	16	B	West
+TH004-074	GSM1428190	4.418	prior	Thailand	Mae Sot	3.22	8	A	West
+TH004-075	GSM1428191	5.017	prior	Thailand	Mae Sot	2.03	16	B	West
+TH004-076	GSM1428192	5.708	prior	Thailand	Mae Sot	14.94	8	C	West
+TH004-077	GSM1428193	5.877	prior	Thailand	Mae Sot	4.49	10	A	West
+TH004-078	GSM1428194	6.191	prior	Thailand	Mae Sot	8.77	10	B	West
+TH004-079	GSM1428195	5.539	prior	Thailand	Mae Sot	14.08	8	A	West
+TH004-080	GSM1428196	6.775	prior	Thailand	Mae Sot	5.82	12	B	West
+TH004-081	GSM1428197	4.077	prior	Thailand	Mae Sot	2.11	16	B	West
+TH004-082	GSM1428198	3.866	prior	Thailand	Mae Sot	3.39	18	B	West
+TH004-083	GSM1428199	1.843	prior	Thailand	Mae Sot	0.93	16	B	West
+TH004-085	GSM1428201	1.667	prior	Thailand	Mae Sot	6.6	12	B	West
+TH004-086	GSM1428202	2.982	prior	Thailand	Mae Sot	3.93	8	A	West
+TH004-086	GSM1428202	2.982	prior	Thailand	Mae Sot	4.37	8	C	West
+TH004-086	GSM1428203	2.982	prior	Thailand	Mae Sot	3.93	8	A	West
+TH004-086	GSM1428203	2.982	prior	Thailand	Mae Sot	4.37	8	C	West
+TH004-087	GSM1428205	5.694	prior	Thailand	Mae Sot	6.62	16	B	West
+TH004-087	GSM1428205	5.694	prior	Thailand	Mae Sot	4.35	16	B	West
+TH004-087	GSM1428204	5.694	prior	Thailand	Mae Sot	6.62	16	B	West
+TH004-087	GSM1428204	5.694	prior	Thailand	Mae Sot	4.35	16	B	West
+TH004-088	GSM1428207	4.82	prior	Thailand	Mae Sot	2.96	8	A	West
+TH004-088	GSM1428207	4.82	prior	Thailand	Mae Sot	1.75	8	A	West
+TH004-088	GSM1428206	4.82	prior	Thailand	Mae Sot	2.96	8	A	West
+TH004-088	GSM1428206	4.82	prior	Thailand	Mae Sot	1.75	8	A	West
+TH004-089	GSM1428209	6.743	prior	Thailand	Mae Sot	6.48	10	C	West
+TH004-089	GSM1428209	6.743	prior	Thailand	Mae Sot	6.71	8	C	West
+TH004-089	GSM1428208	6.743	prior	Thailand	Mae Sot	6.48	10	C	West
+TH004-089	GSM1428208	6.743	prior	Thailand	Mae Sot	6.71	8	C	West
+TH004-090	GSM1428210	6.109	prior	Thailand	Mae Sot	10.44	8	A	West
+TH004-091	GSM1428211	4.576	prior	Thailand	Mae Sot	17.04	16	B	West
+TH004-092	GSM1428212	2.595	prior	Thailand	Mae Sot	7.72	8	A	West
+TH004-094	GSM1428214	7.963	prior	Thailand	Mae Sot	3.27	8	A	West
+TH004-095	GSM1428215	6.504	prior	Thailand	Mae Sot	4.93	8	A	West
+TH004-096	GSM1428216	5.399	prior	Thailand	Mae Sot	5.76	8	A	West
+TH004-097	GSM1428217	7.259	prior	Thailand	Mae Sot	7.8	8	A	West
+TH004-098	GSM1428218	6.365	prior	Thailand	Mae Sot	2.13	14	B	West
+TH004-099	GSM1428219	2.497	prior	Thailand	Mae Sot	3.37	8	A	West
+TH004-101	GSM1428220	4.592	prior	Thailand	Mae Sot	9.63	8	C	West
+TH004-102	GSM1428221	1.188	prior	Thailand	Mae Sot	2.94	22	B	West
+TH004-103	GSM1428222	6.178	prior	Thailand	Mae Sot	1.58	12	B	West
+TH004-104	GSM1428223	8.953	prior	Thailand	Mae Sot	4.05	14	B	West
+TH004-105	GSM1428224	3.177	prior	Thailand	Mae Sot	5.25	16	B	West
+TH004-106	GSM1428225	2.573	prior	Thailand	Mae Sot	5.57	8	C	West
+TH004-107	GSM1428226	7.77	prior	Thailand	Mae Sot	5.06	8	A	West
+TH004-108	GSM1428227	8.715	prior	Thailand	Mae Sot	5.38	8	A	West
+TH004-110	GSM1428228	7.889	prior	Thailand	Mae Sot	2.68	8	A	West
+TH004-111	GSM1428229	6.164	prior	Thailand	Mae Sot	3.28	8	A	West
+TH004-112	GSM1428230	8.096	prior	Thailand	Mae Sot	2.8	8	A	West
+TH004-113	GSM1428231	3.779	prior	Thailand	Mae Sot	16.65	4	C	West
+TH004-114	GSM1428232	4.728	prior	Thailand	Mae Sot	3.19	14	B	West
+TH004-115	GSM1428233	6.427	prior	Thailand	Mae Sot	4.37	8	A	West
+TH004-116	GSM1428234	7.619	prior	Thailand	Mae Sot	3.31	8	A	West
+TH004-117	GSM1428235	6.518	prior	Thailand	Mae Sot	6.44	8	A	West
+TH004-118	GSM1428236	5.649	prior	Thailand	Mae Sot	5.35	8	A	West
+TH004-120	GSM1428237	3.706	prior	Thailand	Mae Sot	3.83	8	A	West
+TH005-001	GSM1428238	3.177	prior	Thailand	Sisakhet	4.17	12	B	East
+TH005-002	GSM1428239	4.868	prior	Thailand	Sisakhet	1.7	12	B	East
+TH005-003	GSM1428240	7.482	prior	Thailand	Sisakhet	5.45	8	A	East
+TH005-004	GSM1428241	7.549	prior	Thailand	Sisakhet	11.66	8	C	East
+TH005-005	GSM1428242	8.524	prior	Thailand	Sisakhet	3.86	12	B	East
+TH005-006	GSM1428243	4.816	prior	Thailand	Sisakhet	2.96	8	A	East
+TH005-007	GSM1428244	3.842	prior	Thailand	Sisakhet	6.18	8	A	East
+TH005-008	GSM1428245	6.156	prior	Thailand	Sisakhet	14.36	8	A	East
+TH005-009	GSM1428246	5.316	prior	Thailand	Sisakhet	12.01	10	A	East
+TH005-010	GSM1428247	2.698	prior	Thailand	Sisakhet	6.13	44	C	East
+TH005-011	GSM1428248	7.238	prior	Thailand	Sisakhet	15.47	8	A	East
+TH005-012	GSM1428249	6.097	prior	Thailand	Sisakhet	3.31	10	A	East
+TH005-013	GSM1428250	10.855	prior	Thailand	Sisakhet	10.06	8	A	East
+TH005-014	GSM1428251	9.343	prior	Thailand	Sisakhet	1.64	10	B	East
+TH005-015	GSM1428252	7.027	prior	Thailand	Sisakhet	6.03	8	A	East
+TH005-017	GSM1428253	8.849	prior	Thailand	Sisakhet	8.24	8	C	East
+TH005-018	GSM1428254	8.634	prior	Thailand	Sisakhet	3.58	8	C	East
+TH005-020	GSM1428255	10.354	prior	Thailand	Sisakhet	4.26	12	B	East
+TH005-021	GSM1428256	9.878	prior	Thailand	Sisakhet	11.17	6	C	East
+TH005-022	GSM1428257	12.015	prior	Thailand	Sisakhet	4.29	4	C	East
+TH005-023	GSM1428258	12.948	prior	Thailand	Sisakhet	4.26	8	C	East
+TH005-024	GSM1428259	13.905	prior	Thailand	Sisakhet	2.83	14	C	East
+TH005-025	GSM1428260	4.312	prior	Thailand	Sisakhet	6.6	8	C	East
+TH005-026	GSM1428261	7.052	prior	Thailand	Sisakhet	8.21	8	A	East
+TH005-027	GSM1428262	4.34	prior	Thailand	Sisakhet	6.07	6	C	East
+TH005-028	GSM1428263	3.132	prior	Thailand	Sisakhet	4.48	8	C	East
+TH005-029	GSM1428264	3.914	prior	Thailand	Sisakhet	12.08	42	C	East
+TH006-002	GSM1428265	5.271	prior	Thailand	Khun Han	3.19	8	A	East
+TH006-003	GSM1428266	6.852	prior	Thailand	Khun Han	4.62	10	B	East
+TH006-004	GSM1428267	1.567	prior	Thailand	Khun Han	8.21	8	C	East
+TH006-006	GSM1428268	4.258	prior	Thailand	Khun Han	2.89	8	C	East
+TH006-007	GSM1428269	3.368	prior	Thailand	Khun Han	2.43	10	A	East
+TH006-009	GSM1428270	5.797	prior	Thailand	Khun Han	5.82	8	A	East
+TH006-010	GSM1428271	7.1	prior	Thailand	Khun Han	3.67	8	A	East
+TH006-011	GSM1428272	6.95	prior	Thailand	Khun Han	6.56	8	C	East
+TH007-001	GSM1428274	5.793	prior	Thailand	Ranong	2.97	8	A	West
+TH007-002	GSM1428275	4.517	prior	Thailand	Ranong	1.67	8	A	West
+TH007-003	GSM1428276	4.482	prior	Thailand	Ranong	5.1	8	C	West
+TH007-004	GSM1428277	5.561	prior	Thailand	Ranong	1.72	12	B	West
+TH007-005	GSM1428278	6.361	prior	Thailand	Ranong	2.15	8	A	West
+TH007-006	GSM1428279	2.739	prior	Thailand	Ranong	2.59	8	A	West
+TH007-007	GSM1428280	7.198	prior	Thailand	Ranong	2.6	8	A	West
+TH007-008	GSM1428281	5.354	prior	Thailand	Ranong	2.82	8	A	West
+TH007-009	GSM1428282	5.066	prior	Thailand	Ranong	2.65	8	A	West
+TH007-010	GSM1428283	4.69	prior	Thailand	Ranong	5.56	8	B	West
+TH007-011	GSM1428284	6.292	prior	Thailand	Ranong	5.5	10	A	West
+TH007-012	GSM1428285	3.454	prior	Thailand	Ranong	5.42	8	A	West
+TH007-013	GSM1428286	7.146	prior	Thailand	Ranong	3.4	8	A	West
+TH007-014	GSM1428287	6.257	prior	Thailand	Ranong	5.27	10	B	West
+TH007-015	GSM1428288	3.249	prior	Thailand	Ranong	10.88	8	A	West
+TH007-016	GSM1428289	2.355	prior	Thailand	Ranong	9.13	16	B	West
+TH007-018	GSM1428290	9.477	prior	Thailand	Ranong	3.66	8	A	West
+TH007-019	GSM1428291	3.13	prior	Thailand	Ranong	5.91	10	A	West
+TH007-020	GSM1428292	3.497	prior	Thailand	Ranong	8.7	10	A	West
+TH007-021	GSM1428293	5.162	prior	Thailand	Ranong	5.24	14	C	West
+TH007-023	GSM1428294	8.638	prior	Thailand	Ranong	8.43	8	A	West
+VN001-001	GSM1428295	5.65	prior	Vietnam	Binh Phuoc	7.47	8	A	East
+VN001-002	GSM1428296	1.459	prior	Vietnam	Binh Phuoc	6.14	16	B	East
+VN001-003	GSM1428297	1.345	prior	Vietnam	Binh Phuoc	3.32	10	C	East
+VN001-004	GSM1428298	5.158	prior	Vietnam	Binh Phuoc	6.48	14	B	East
+VN001-005	GSM1428299	4.284	prior	Vietnam	Binh Phuoc	10.57	14	B	East
+VN001-006	GSM1428300	1.258	prior	Vietnam	Binh Phuoc	4.37	8	A	East
+VN001-007	GSM1428301	7.756	prior	Vietnam	Binh Phuoc	3.4	8	A	East
+VN001-008	GSM1428302	1.891	prior	Vietnam	Binh Phuoc	4.11	8	A	East
+VN001-009	GSM1428303	2.455	prior	Vietnam	Binh Phuoc	3.95	8	A	East
+VN001-010	GSM1428304	6.047	prior	Vietnam	Binh Phuoc	1.19	8	B	East
+VN001-011	GSM1428305	3.079	prior	Vietnam	Binh Phuoc	1.84	8	A	East
+VN001-012	GSM1428306	7.499	prior	Vietnam	Binh Phuoc	1.11	4	C	East
+VN001-013	GSM1428307	8.503	prior	Vietnam	Binh Phuoc	3.06	8	A	East
+VN001-014	GSM1428308	3.499	prior	Vietnam	Binh Phuoc	5.14	8	A	East
+VN001-015	GSM1428309	1.421	prior	Vietnam	Binh Phuoc	6.35	14	C	East
+VN001-016	GSM1428310	2.674	prior	Vietnam	Binh Phuoc	2.77	8	A	East
+VN001-017	GSM1428311	3.922	prior	Vietnam	Binh Phuoc	3.71	4	C	East
+VN001-018	GSM1428312	2.789	prior	Vietnam	Binh Phuoc	3.99	8	A	East
+VN001-019	GSM1428313	2.423	prior	Vietnam	Binh Phuoc	1.5	8	C	East
+VN001-021	GSM1428314	2.364	prior	Vietnam	Binh Phuoc	5.29	8	A	East
+VN001-022	GSM1428315	6.703	prior	Vietnam	Binh Phuoc	9.61	8	C	East
+VN001-023	GSM1428316	1.74	prior	Vietnam	Binh Phuoc	1.55	12	B	East
+VN001-024	GSM1428317	8.809	prior	Vietnam	Binh Phuoc	4.65	8	C	East
+VN001-025	GSM1428318	1.81	prior	Vietnam	Binh Phuoc	8.4	8	A	East
+VN001-026	GSM1428319	6.139	prior	Vietnam	Binh Phuoc	6.59	8	C	East
+VN001-028	GSM1428321	7.264	prior	Vietnam	Binh Phuoc	4.05	8	A	East
+VN001-029	GSM1428322	3.463	prior	Vietnam	Binh Phuoc	4.08	8	A	East
+VN001-030	GSM1428323	2.729	prior	Vietnam	Binh Phuoc	3.53	8	A	East
+VN001-031	GSM1428324	5.169	prior	Vietnam	Binh Phuoc	2.39	8	C	East
+VN001-032	GSM1428325	4.928	prior	Vietnam	Binh Phuoc	5.08	12	B	East
+VN001-033	GSM1428326	4.56	prior	Vietnam	Binh Phuoc	3.22	8	A	East
+VN001-034	GSM1428327	7.347	prior	Vietnam	Binh Phuoc	3.19	8	C	East
+VN001-035	GSM1428328	3.11	prior	Vietnam	Binh Phuoc	2.65	4	C	East
+VN001-036	GSM1428329	3.356	prior	Vietnam	Binh Phuoc	5.39	8	A	East
+VN001-037	GSM1428330	8.26	prior	Vietnam	Binh Phuoc	9.92	8	A	East
+VN001-038	GSM1428331	4.029	prior	Vietnam	Binh Phuoc	5.39	8	A	East
+VN001-039	GSM1428332	4.494	prior	Vietnam	Binh Phuoc	2.98	8	A	East
+VN001-040	GSM1428333	3.238	prior	Vietnam	Binh Phuoc	3.39	8	A	East
+VN001-041	GSM1428334	2.4	prior	Vietnam	Binh Phuoc	2.81	8	A	East
+VN001-042	GSM1428335	5.296	prior	Vietnam	Binh Phuoc	4.51	8	A	East
+VN001-045	GSM1428336	1.772	prior	Vietnam	Binh Phuoc	4.28	4	A	East
+VN001-046	GSM1428337	6.619	prior	Vietnam	Binh Phuoc	3.39	12	B	East
+VN001-047	GSM1428338	5.379	prior	Vietnam	Binh Phuoc	1.24	8	A	East
+VN001-048	GSM1428339	2.482	prior	Vietnam	Binh Phuoc	5.96	8	A	East
+VN001-049	GSM1428340	2.289	prior	Vietnam	Binh Phuoc	3.45	8	A	East
+VN001-050	GSM1428341	2.921	prior	Vietnam	Binh Phuoc	13.5	4	C	East
+VN001-051	GSM1428342	6.598	prior	Vietnam	Binh Phuoc	5.9	8	A	East
+VN001-052	GSM1428343	1.35	prior	Vietnam	Binh Phuoc	5.72	8	C	East
+VN001-053	GSM1428344	6.093	prior	Vietnam	Binh Phuoc	3.27	8	A	East
+VN001-054	GSM1428345	2.499	prior	Vietnam	Binh Phuoc	8.74	12	B	East
+VN001-055	GSM1428346	7.03	prior	Vietnam	Binh Phuoc	5.06	10	B	East
+VN001-056	GSM1428347	8.288	prior	Vietnam	Binh Phuoc	4.65	10	A	East
+VN001-057	GSM1428348	4.913	prior	Vietnam	Binh Phuoc	9.65	12	B	East
+VN001-058	GSM1428349	6.395	prior	Vietnam	Binh Phuoc	2.92	8	C	East
+VN001-059	GSM1428350	1.004	prior	Vietnam	Binh Phuoc	5.84	8	A	East
+VN001-060	GSM1428351	6.867	prior	Vietnam	Binh Phuoc	3.46	8	A	East
+VN001-061	GSM1428352	1.45	prior	Vietnam	Binh Phuoc	6.26	8	C	East
+VN001-062	GSM1428353	6.524	prior	Vietnam	Binh Phuoc	3.75	8	A	East
+VN001-063	GSM1428354	2.042	prior	Vietnam	Binh Phuoc	6	8	A	East
+VN001-064	GSM1428355	1.586	prior	Vietnam	Binh Phuoc	5.18	8	A	East
+VN001-066	GSM1428356	2.585	prior	Vietnam	Binh Phuoc	4.87	8	A	East
+VN001-067	GSM1428357	1.274	prior	Vietnam	Binh Phuoc	26.43	8	C	East
+VN001-068	GSM1428358	3.052	prior	Vietnam	Binh Phuoc	2.37	8	A	East
+VN001-069	GSM1428359	8.243	prior	Vietnam	Binh Phuoc	3.42	10	B	East
+VN001-070	GSM1428360	6.445	prior	Vietnam	Binh Phuoc	1.13	10	B	East
+VN001-072	GSM1428361	3.623	prior	Vietnam	Binh Phuoc	2.25	8	A	East
+VN001-073	GSM1428362	2.792	prior	Vietnam	Binh Phuoc	4.76	4	C	East
+VN001-074	GSM1428363	2.883	prior	Vietnam	Binh Phuoc	22.75	8	C	East
+VN001-075	GSM1428364	1.853	prior	Vietnam	Binh Phuoc	1.29	8	C	East
+VN001-076	GSM1428365	2.034	prior	Vietnam	Binh Phuoc	2.42	8	A	East
+VN001-077	GSM1428366	2.573	prior	Vietnam	Binh Phuoc	3.79	8	A	East
+VN001-078	GSM1428367	1.645	prior	Vietnam	Binh Phuoc	1.85	8	A	East
+VN001-079	GSM1428368	3.311	prior	Vietnam	Binh Phuoc	0.91	8	A	East
+VN001-080	GSM1428369	5.165	prior	Vietnam	Binh Phuoc	3.91	10	B	East
+VN001-081	GSM1428370	1.126	prior	Vietnam	Binh Phuoc	0.79	8	C	East
+VN001-082	GSM1428371	1.701	prior	Vietnam	Binh Phuoc	2.88	16	B	East
+VN001-084	GSM1428372	0.762	prior	Vietnam	Binh Phuoc	2.02	12	B	East
+VN001-085	GSM1428373	1.565	prior	Vietnam	Binh Phuoc	1.78	4	A	East
+VN001-086	GSM1428374	3.139	prior	Vietnam	Binh Phuoc	2.14	8	C	East
+VN001-087	GSM1428375	2.137	prior	Vietnam	Binh Phuoc	1.67	8	A	East
+VN001-088	GSM1428376	7.153	prior	Vietnam	Binh Phuoc	2.59	8	A	East
+VN001-089	GSM1428377	1.904	prior	Vietnam	Binh Phuoc	2.67	8	C	East
+VN001-091	GSM1428378	2.004	prior	Vietnam	Binh Phuoc	4.99	14	B	East
+VN001-092	GSM1428379	3.415	prior	Vietnam	Binh Phuoc	3.32	8	A	East
+VN001-093	GSM1428380	8.569	prior	Vietnam	Binh Phuoc	3.15	8	A	East
+VN001-094	GSM1428381	4.308	prior	Vietnam	Binh Phuoc	5.49	8	A	East
+VN001-095	GSM1428382	1.232	prior	Vietnam	Binh Phuoc	7.66	4	C	East
+VN001-096	GSM1428383	2.123	prior	Vietnam	Binh Phuoc	11.86	8	A	East
+VN001-097	GSM1428384	8.684	prior	Vietnam	Binh Phuoc	2.29	8	A	East
+VN001-098	GSM1428385	1.658	prior	Vietnam	Binh Phuoc	2.89	8	A	East
+VN001-099	GSM1428386	4.262	prior	Vietnam	Binh Phuoc	3.02	10	B	East
+VN001-100	GSM1428387	4.83	prior	Vietnam	Binh Phuoc	4.9	14	B	East
+VN001-101	GSM1428388	8.271	prior	Vietnam	Binh Phuoc	2.92	8	A	East
+VN001-102	GSM1428389	4.58	prior	Vietnam	Binh Phuoc	6.06	8	A	East
+VN001-103	GSM1428390	8.946	prior	Vietnam	Binh Phuoc	6.06	8	A	East
+VN001-104	GSM1428391	2.69	prior	Vietnam	Binh Phuoc	2.15	44	C	East
+VN001-105	GSM1428392	2.822	prior	Vietnam	Binh Phuoc	3.01	8	A	East
+VN001-106	GSM1428393	1.136	prior	Vietnam	Binh Phuoc	4.57	12	B	East
+VN001-107	GSM1428394	4.202	prior	Vietnam	Binh Phuoc	3.25	8	A	East
+VN001-108	GSM1428395	1.939	prior	Vietnam	Binh Phuoc	2.7	8	A	East
+VN001-109	GSM1428396	2.024	prior	Vietnam	Binh Phuoc	3.17	8	A	East
+VN001-110	GSM1428397	2.706	prior	Vietnam	Binh Phuoc	11.11	8	A	East
+VN001-111	GSM1428398	2.728	prior	Vietnam	Binh Phuoc	11.79	8	A	East
+VN001-112	GSM1428399	1.883	prior	Vietnam	Binh Phuoc	3.7	8	A	East
+VN001-113	GSM1428400	1.505	prior	Vietnam	Binh Phuoc	4.18	8	A	East
+VN001-114	GSM1428401	2.208	prior	Vietnam	Binh Phuoc	1.88	8	A	East
+VN001-115	GSM1428402	5.538	prior	Vietnam	Binh Phuoc	5.76	10	A	East
+VN001-116	GSM1428403	1.146	prior	Vietnam	Binh Phuoc	2.27	14	B	East
+VN001-117	GSM1428404	7.049	prior	Vietnam	Binh Phuoc	2.67	8	C	East
+VN001-118	GSM1428405	4.355	prior	Vietnam	Binh Phuoc	6.18	8	C	East
+VN001-119	GSM1428406	3.945	prior	Vietnam	Binh Phuoc	4.84	8	C	East
+VN001-120	GSM1428407	3.771	prior	Vietnam	Binh Phuoc	5.21	8	A	East
