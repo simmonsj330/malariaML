@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 #imports
+import sklearn
 
 #functions
 def rf():

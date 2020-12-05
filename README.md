@@ -19,7 +19,7 @@ In order to effectily run a random forest algorithm, the original malarai date, 
 ## Dependencies
 Python3 
 
-SkiLearn
+SkLearn
 
 ## Build Procedure
 ~
