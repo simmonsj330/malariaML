@@ -1,11 +1,10 @@
-# Pandas is used for data manipulation
-import pandas as pd# Read in data and display first 5 rows
-# Use numpy to convert to arrays
-import numpy as np# Labels are the values we want to predict
+#imports
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
 
-from sklearn.model_selection import train_test_split# Split the data into training and testing sets
-
-features = pd.read_csv('zhu_meta.csv', index_col=False)
+features = pd.read_csv('malaria_data/zhu_meta.csv', index_col=False)
 features = features.dropna(axis="columns", how="any")
 # print(features.head(5))
 
@@ -17,8 +16,10 @@ print('The shape of our features is:', features.shape)
 
 labels = np.array(features['Parasites.clearance.time'])# Remove the labels from the features
 # axis 1 refers to the columns
-features= features.drop('Parasites.clearance.time', axis = 1)# Saving feature names for later use
-
+features = features.drop('SampleID', axis = 1)
+features = features.drop('SampleID.Pf3k', axis = 1)
+features = features.drop('Parasites.clearance.time', axis = 1)# Saving feature names for later use
+#print(len(features.columns))
 # One-hot encode the data using pandas get_dummies
 # print(features.iloc[:,5:].head(5))
 
@@ -89,8 +90,7 @@ print('Accuracy:', round(accuracy, 2), '%.')
 
 
 
-# Import matplotlib for plotting and use magic command for Jupyter Notebooks
-import matplotlib.pyplot as plt
+
 
 # plt.style.use('fivethirtyeight')# list of x locations for plotting
 # x_values = list(range(len(importances)))# Make a bar chart
@@ -123,10 +123,22 @@ import matplotlib.pyplot as plt
 # plt.legend()# Graph labels
 # plt.xlabel('Date'); plt.ylabel('Maximum Temperature (F)'); plt.title('Actual and Predicted Values')
 
-# plt.plot(range(262), test_labels, 'b-', label = 'actual')# Plot the predicted values
-# plt.plot(range(262), predictions, 'ro', label = 'prediction')
+fig, ax = plt.subplots()
+#ax.plot(range(len(test_labels)), test_labels,label = "Actual Clearence")
+#ax.plot(range(len(predictions)), predictions,label = "Predictions")
+ax.scatter(range(len(test_labels)), test_labels,label = "Actual Clearence")
+ax.scatter(range(len(predictions)), predictions,label = "Predictions")
+ax.set(xlabel='Patients', ylabel='Time', title='Malaria Clearence Predictions')
+ax.legend()
 
-# plt.show()
+
+
+
+
+#plt.plot(range(262), test_labels, 'b-', label = 'actual')# Plot the predicted values
+#plt.plot(range(262), predictions, 'ro', label = 'prediction')
+
+plt.show()
 
 
 
