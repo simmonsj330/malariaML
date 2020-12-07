@@ -1,23 +1,28 @@
-# Pandas is used for data manipulation
-import pandas as pd# Read in data and display first 5 rows
-# Use numpy to convert to arrays
-import numpy as np# Labels are the values we want to predict
+#!/usr/bin/env python3
 
-from sklearn.model_selection import train_test_split# Split the data into training and testing sets
+# Imports
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
 
-features = pd.read_csv('mok_meta.csv', index_col=False)
-# print(features.head(5))
 
-print('The shape of our features is:', features.shape)
+#Reading in features
+features = pd.read_csv('malaria_data/mok_meta.csv', index_col=False)
 
+
+#print('The shape of our features is:', features.shape)
 # Descriptive statistics for each column
 # print(features.describe())
 
 
 labels = np.array(features['Clearance'])# Remove the labels from the features
 # axis 1 refers to the columns
-features= features.drop('Clearance', axis = 1)# Saving feature names for later use
-
+features = features.drop('SampleID', axis = 1)
+features = features.drop('GenotypeID', axis = 1)
+features = features.drop('Clearance', axis = 1)# Saving feature names for later use
+#print(features.columns)
 # One-hot encode the data using pandas get_dummies
 # print(features.iloc[:,5:].head(5))
 
@@ -30,7 +35,7 @@ features = np.array(features)
 
 # Using Skicit-learn to split data into training and testing sets
 
-train_features, test_features, train_labels, test_labels = train_test_split(features, labels, test_size = 0.25, random_state = 42)
+train_features, test_features, train_labels, test_labels = train_test_split(features, labels, test_size = 0.25, random_state = 50)
 
 
 print('Training Features Shape:', train_features.shape)
@@ -42,8 +47,8 @@ print('Testing Labels Shape:', test_labels.shape)
 # baseline_preds = test_features[:, feature_list.index('average')]# Baseline errors, and display average baseline error
 # baseline_errors = abs(baseline_preds - test_labels)print('Average baseline error: ', round(np.mean(baseline_errors), 2))Average baseline error:  5.06 degrees.
 
-# Import the model we are using
-from sklearn.ensemble import RandomForestRegressor# Instantiate model with 1000 decision trees
+
+
 rf = RandomForestRegressor(n_estimators = 1000, random_state = 42)# Train the model on training data
 rf.fit(train_features, train_labels)
 
@@ -66,6 +71,8 @@ accuracy = 100 - np.mean(mape)
 print('Accuracy:', round(accuracy, 2), '%.')
 
 
+
+
 # Import tools needed for visualization
 # from sklearn.tree import export_graphviz
 # import pydot# Pull out one tree from the forest
@@ -80,16 +87,16 @@ print('Accuracy:', round(accuracy, 2), '%.')
 
 
 # Get numerical feature importances
-# importances = list(rf.feature_importances_)# List of tuples with variable and importance
-# feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(feature_list, importances)]# Sort the feature importances by most important first
-# feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = False)# Print out the feature and importances 
-# [print('Variable: {:20} Importance: {}'.format(*pair)) for pair in feature_importances]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+'''
+importances = list(rf.feature_importances_)# List of tuples with variable and importance
+feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(feature_list, importances)]# Sort the feature importances by most important first
+feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = False)# Print out the feature and importances 
+[print('Variable: {:20} Importance: {}'.format(*pair)) for pair in feature_importances]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+'''
 
 
 
 
-# Import matplotlib for plotting and use magic command for Jupyter Notebooks
-import matplotlib.pyplot as plt
 
 # plt.style.use('fivethirtyeight')# list of x locations for plotting
 # x_values = list(range(len(importances)))# Make a bar chart
@@ -122,10 +129,22 @@ import matplotlib.pyplot as plt
 # plt.legend()# Graph labels
 # plt.xlabel('Date'); plt.ylabel('Maximum Temperature (F)'); plt.title('Actual and Predicted Values')
 
-plt.plot(range(262), test_labels, 'b-', label = 'actual')# Plot the predicted values
-plt.plot(range(262), predictions, 'ro', label = 'prediction')
+
+fig, ax = plt.subplots()
+ax.plot(range(len(test_labels)), test_labels,label = "Actual Clearence")
+ax.plot(range(len(predictions)), predictions,label = "Predictions")
+#ax.scatter(range(len(test_labels)), test_labels,label = "Actual Clearence")
+#ax.scatter(range(len(predictions)), predictions,label = "Predictions")
+ax.set(xlabel='Patients', ylabel='Time', title='Malaria Clearence Predictions')
+ax.legend()
+
+
+
+#plt.plot(range(262), test_labels, 'b-', label = 'actual')# Plot the predicted values
+#plt.plot(range(262), predictions, 'ro', label = 'prediction')
 
 plt.show()
+
 
 
 
