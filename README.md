@@ -22,7 +22,9 @@ Python3
 SkLearn
 
 ## Build Procedure
-~
+*python3 rf_mok.py*
+
+*python3 rf_zhu.py*
 
 ### Appendix
 Clearence - measurement of per volume of plasma in which a substance is completely removed per unit time.
