@@ -131,11 +131,11 @@ feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse 
 
 
 fig, ax = plt.subplots()
-ax.plot(range(len(test_labels)), test_labels,label = "Actual Clearence")
-ax.plot(range(len(predictions)), predictions,label = "Predictions")
-#ax.scatter(range(len(test_labels)), test_labels,label = "Actual Clearence")
-#ax.scatter(range(len(predictions)), predictions,label = "Predictions")
-ax.set(xlabel='Patients', ylabel='Time', title='Malaria Clearence Predictions')
+#ax.plot(range(len(test_labels)), test_labels,label = "Actual Clearence")
+#ax.plot(range(len(predictions)), predictions,label = "Predictions")
+ax.scatter(range(len(test_labels)), test_labels,label = "Actual Clearence")
+ax.scatter(range(len(predictions)), predictions,label = "Predictions")
+ax.set(xlabel='Patients', ylabel='Time', title='Mok Data Set Malaria Clearence Predictions')
 ax.legend()
 
 
