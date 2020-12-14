@@ -1,5 +1,5 @@
 # Notes
-The purpose of this file is to provide other collaborators with qaulitative information regarding malaria, datasets, and other content within this project.
+The purpose of this file is to provide collaborators with qaulitative information regarding malaria, datasets, and other content within this project.
 
 ## Mok et al.
 This file contains clinical data regarding malaria samples. Each datum is broken down into 10 different features. They are descirbed as follows:
