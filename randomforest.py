@@ -2,12 +2,13 @@
 
 # Imports
 import pandas as pd
+import sys
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 
-def rf(input1, prediction_feature, num_runs, print_predictions):
+def rf(input1, prediction_feature, num_runs, print_predictions, print_importances):
     #Reading in features
     features = pd.read_csv(input1, index_col=False)
 
@@ -46,6 +47,11 @@ def rf(input1, prediction_feature, num_runs, print_predictions):
     '''
 
     maccuracy = 0
+    mtest_labels = []
+    mpredictions = []
+    mfeature_importances = 0
+    mnum = 0
+    feature_importances_list = []
     for i in range(num_runs):
         print('--------------------')
         print(f'Run {i}:')
@@ -72,12 +78,53 @@ def rf(input1, prediction_feature, num_runs, print_predictions):
         mape = 100 * (errors / test_labels)# Calculate and display accuracy
         accuracy = 100 - np.mean(mape)
         print(f'\tAccuracy: {round(accuracy, 2)}%')
-        
+
+        #getting numerical feature importances
+        importances = list(rf.feature_importances_)# List of tuples with variable and importance
+        #creating feature importances tuple from feature list and values of importances
+        feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(feature_list, importances)]
+        #sorting by most importance first
+        feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = True)
+
+        if(print_importances == True):
+            print('\tVariable\t\tImportance')
+            for(variable, value) in feature_importances:
+                print(f'\t{variable:20}\t{value}')
+
+        feature_importances_list.append(feature_importances)
+
         if(accuracy > maccuracy):
+            #setting most accurate run number
+            mnum = i
+            #setting max accuracy
             maccuracy = accuracy
+            #setting most accurate test labels and predictions list
+            mtest_labels = test_labels
+            mpredictions = predictions
+            #finding most important feature from most accurate run
+            mfeature_importances = feature_importances
+
 
     print('--------------------')
-    print(f'Max Accuracy of {i+1} Runs: {round(maccuracy,2)}%')
+    print(f'Max Accuracy of {i+1} Runs was Run {mnum}: {round(maccuracy,2)}%')
+
+    print(f'Run {mnum} Predictions:')
+    print("\tActual\tPrediction")
+    for j in range(len(predictions)):
+        print(f'\t{round(test_labels[j], 5)}\t{round(predictions[j], 5)}')
+
+
+    print(f'Run {mnum} Importances:')
+    print('\tVariable\t\tImportance')
+    for(variable, value) in mfeature_importances:
+        print(f'\t{variable:20}\t{value}')
+
+    mvar_list = []
+    for i in feature_importances_list:
+        mvar_list.append(i[0][0])
+
+    mvar = max(set(mvar_list), key = mvar_list.count) 
+    print(f"'{mvar}' is the most important feature in {mvar_list.count(mvar)}/{len(mvar_list)} runs.")
 
     # Import tools needed for visualization
     # from sklearn.tree import export_graphviz
@@ -91,13 +138,10 @@ def rf(input1, prediction_feature, num_runs, print_predictions):
     # graph.write_png('tree.png')
 
 
-    '''
-    # Get numerical feature importances
-    importances = list(rf.feature_importances_)# List of tuples with variable and importance
-    feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(feature_list, importances)]# Sort the feature importances by most important first
-    feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = True)# Print out the feature and importances 
-    [print('Variable: {:20} Importance: {}'.format(*pair)) for pair in feature_importances]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-    '''
+    
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    
 
 
 
@@ -166,8 +210,10 @@ if __name__ == "__main__":
     else:
         i4 = False
     '''
+    print(sys.argv)
     i1 = 'malaria_data/mok_meta.csv'
     i2 = 'Clearance'
-    i3 = 5
+    i3 = 2
     i4 = False
-    rf(i1, i2, i3, i4)
+    i5 = True
+    rf(i1, i2, i3, i4, i5)
