@@ -11,6 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 def rf(input1, prediction_feature, num_runs, print_predictions, print_importances):
     #Reading in features
     features = pd.read_csv(input1, index_col=False)
+    features = features.dropna(axis="columns", how="any")
 
     '''
     #This prints the total number of rows and features (columns)
@@ -25,10 +26,20 @@ def rf(input1, prediction_feature, num_runs, print_predictions, print_importance
     # Remove the labels from the features
     labels = np.array(features[prediction_feature])
     # axis 1 refers to the columns
+
+    #Mok Data
+    '''
     features = features.drop('SampleID', axis = 1)
     features = features.drop('GenotypeID', axis = 1)
     features = features.drop('Clearance', axis = 1)# Saving feature names for later use
-  
+    '''
+    #Zhu data
+    features = features.drop('SampleID', axis = 1)
+    features = features.drop('SampleID.Pf3k', axis = 1)
+    features = features.drop('Sample.collection.time.24hr.', axis = 1)
+    features = features.drop('PC90', axis = 1)
+    features = features.drop('Parasites.clearance.time', axis = 1)# Saving feature names for later use
+    
 
     #Convert qualitative data into arbitrary values for processing
     features = pd.get_dummies(features)
@@ -65,6 +76,7 @@ def rf(input1, prediction_feature, num_runs, print_predictions, print_importance
         predictions = rf.predict(test_features)# Calculate the absolute errors
         errors = abs(predictions - test_labels)# Print out the mean absolute error (mae)
         
+        
         if(print_predictions == True):
             #Printing actual values and prediction values
             
@@ -73,7 +85,7 @@ def rf(input1, prediction_feature, num_runs, print_predictions, print_importance
                 print(f'\t{round(test_labels[j], 5)}\t{round(predictions[j], 5)}')
             
         
-        print(f'\tMean Absolute Error: {round(np.mean(errors), 2)}')
+        #print(f'\tMean Absolute Error: {round(np.mean(errors), 2)}')
         # Calculate mean absolute percentage error (MAPE)
         mape = 100 * (errors / test_labels)# Calculate and display accuracy
         accuracy = 100 - np.mean(mape)
@@ -108,24 +120,37 @@ def rf(input1, prediction_feature, num_runs, print_predictions, print_importance
     print('--------------------')
     print(f'Max Accuracy of {i+1} Runs was Run {mnum}: {round(maccuracy,2)}%')
 
+    '''
     print(f'Run {mnum} Predictions:')
     print("\tActual\tPrediction")
     for j in range(len(predictions)):
         print(f'\t{round(test_labels[j], 5)}\t{round(predictions[j], 5)}')
+    '''
 
-
+    '''
     print(f'Run {mnum} Importances:')
     print('\tVariable\t\tImportance')
     for(variable, value) in mfeature_importances:
         print(f'\t{variable:20}\t{value}')
+    '''
 
     mvar_list = []
+    mvar_list2 = []
+    mvar_list3 = []
     for i in feature_importances_list:
         mvar_list.append(i[0][0])
+        mvar_list2.append(i[1][0])
+        mvar_list3.append(i[2][0])
+
+    
+    
 
     mvar = max(set(mvar_list), key = mvar_list.count) 
+    mvar2 = max(set(mvar_list2), key = mvar_list2.count) 
+    mvar3 = max(set(mvar_list3), key = mvar_list3.count) 
     print(f"'{mvar}' is the most important feature in {mvar_list.count(mvar)}/{len(mvar_list)} runs.")
-
+    print(f"'{mvar2}' is the second most important feature in {mvar_list2.count(mvar2)}/{len(mvar_list2)} runs.")
+    print(f"'{mvar3}' is the second most important feature in {mvar_list3.count(mvar3)}/{len(mvar_list3)} runs.")
     # Import tools needed for visualization
     # from sklearn.tree import export_graphviz
     # import pydot# Pull out one tree from the forest
@@ -178,13 +203,13 @@ def rf(input1, prediction_feature, num_runs, print_predictions, print_importance
     # plt.legend()# Graph labels
     # plt.xlabel('Date'); plt.ylabel('Maximum Temperature (F)'); plt.title('Actual and Predicted Values')
 
-    '''
+    
     fig, ax = plt.subplots()
-    ax.plot(range(len(test_labels)), test_labels,label = "Actual Clearence")
-    ax.plot(range(len(predictions)), predictions,label = "Predictions")
+    ax.plot(range(len(mtest_labels)), mtest_labels,label = "Actual Clearence")
+    ax.plot(range(len(mpredictions)), mpredictions,label = "Predictions")
     #ax.scatter(range(len(test_labels)), test_labels,label = "Actual Clearence")
     #ax.scatter(range(len(predictions)), predictions,label = "Predictions")
-    ax.set(xlabel='Patients', ylabel='Time', title='Malaria Clearence Predictions')
+    ax.set(xlabel='Patients', ylabel='Clearance', title='Zhu Data Clearence Predictions')
     ax.legend()
 
 
@@ -193,7 +218,7 @@ def rf(input1, prediction_feature, num_runs, print_predictions, print_importance
     #plt.plot(range(262), predictions, 'ro', label = 'prediction')
 
     plt.show()
-    '''
+    
 
 
 
@@ -211,9 +236,9 @@ if __name__ == "__main__":
         i4 = False
     '''
     print(sys.argv)
-    i1 = 'malaria_data/mok_meta.csv'
-    i2 = 'Clearance'
-    i3 = 2
+    i1 = 'malaria_data/zhu_meta.csv'
+    i2 = 'Parasites.clearance.time'
+    i3 = 10
     i4 = False
-    i5 = True
+    i5 = False
     rf(i1, i2, i3, i4, i5)
